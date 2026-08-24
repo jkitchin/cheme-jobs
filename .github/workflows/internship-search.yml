@@ -1,0 +1,145 @@
+name: Monthly ChemE internship search
+
+on:
+  schedule:
+    # Midnight UTC on the 1st of every month
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "Model to run the search with"
+        default: "opus"
+        type: string
+      commit:
+        description: "Commit the results back to the repo"
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: internship-search
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      MODEL: ${{ inputs.model || 'opus' }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check credentials
+        run: |
+          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ] && [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::No credentials. Set repo secret CLAUDE_CODE_OAUTH_TOKEN (from 'claude setup-token') or ANTHROPIC_API_KEY."
+            exit 1
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Build prompt
+        id: prompt
+        run: |
+          set -euo pipefail
+          TODAY="$(date -u +%Y-%m-%d)"
+          # Reports are named by the month-day-year they were compiled on.
+          STAMP="$(date -u +%m-%d-%Y)"
+          OUT="archive/${STAMP}.md"
+          echo "today=$TODAY"   >> "$GITHUB_OUTPUT"
+          echo "stamp=$STAMP"   >> "$GITHUB_OUTPUT"
+          echo "outfile=$OUT"   >> "$GITHUB_OUTPUT"
+          sed -e "s|{{TODAY}}|$TODAY|g" \
+              -e "s|{{STAMP}}|$STAMP|g" \
+              -e "s|{{OUTFILE}}|$OUT|g" \
+              prompts/internship-search.md > "$RUNNER_TEMP/prompt.md"
+          echo "--- prompt built ($(wc -l < "$RUNNER_TEMP/prompt.md") lines) ---"
+
+      - name: Run internship search
+        env:
+          OUTFILE: ${{ steps.prompt.outputs.outfile }}
+        run: |
+          set -euo pipefail
+          # An empty secret shows up as an empty env var; unset so auth resolution is unambiguous.
+          [ -n "${CLAUDE_CODE_OAUTH_TOKEN:-}" ] || unset CLAUDE_CODE_OAUTH_TOKEN
+          [ -n "${ANTHROPIC_API_KEY:-}" ]       || unset ANTHROPIC_API_KEY
+
+          claude -p \
+            --model "$MODEL" \
+            --fallback-model sonnet \
+            --permission-mode bypassPermissions \
+            --tools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep,TodoWrite" \
+            --max-budget-usd 25 \
+            --output-format text \
+            < "$RUNNER_TEMP/prompt.md" | tee "$RUNNER_TEMP/run.log"
+
+          if [ ! -s "$OUTFILE" ] || [ "$(wc -c < "$OUTFILE")" -lt 2000 ]; then
+            echo "::error::$OUTFILE was not written (or is suspiciously small). See the run log artifact."
+            exit 1
+          fi
+
+      - name: Update current listing and archive index
+        env:
+          OUTFILE: ${{ steps.prompt.outputs.outfile }}
+        run: |
+          set -euo pipefail
+          cp "$OUTFILE" INTERNSHIPS.md
+          {
+            echo "# Archive"
+            echo
+            echo "Monthly snapshots of the internship search, named by the date"
+            echo "they were compiled (MM-DD-YYYY). Newest first."
+            echo
+            # Filenames are MM-DD-YYYY, which does not sort chronologically, so
+            # build a YYYY-MM-DD sort key for each and sort on that.
+            for f in archive/*.md; do
+              [ "$f" = "archive/INDEX.md" ] && continue
+              [ -e "$f" ] || continue
+              b="$(basename "$f" .md)"
+              case "$b" in
+                [0-9][0-9]-[0-9][0-9]-[0-9][0-9][0-9][0-9])
+                  key="${b:6:4}-${b:0:2}-${b:3:2}" ;;
+                *) key="$b" ;;
+              esac
+              printf '%s\t%s\n' "$key" "$b"
+            done | sort -r | cut -f2 | while read -r b; do
+              echo "- [$b]($b.md)"
+            done
+          } > archive/INDEX.md
+
+      - name: Commit results
+        # On a schedule run `inputs.commit` is null, and GitHub casts both null and
+        # false to 0 — so `inputs.commit != false` would be false and the scheduled
+        # run would never commit. Gate on the event instead.
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.commit }}
+        env:
+          STAMP: ${{ steps.prompt.outputs.stamp }}
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add INTERNSHIPS.md archive
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Internship listings compiled $STAMP"
+          git push
+
+      - name: Upload run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: claude-run-log
+          path: ${{ runner.temp }}/run.log
+          if-no-files-found: warn
