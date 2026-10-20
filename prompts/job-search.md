@@ -80,10 +80,15 @@ Then a nearest-deadline callout as a blockquote:
     > deadline actually means: USAJOBS application caps, faculty review dates,
     > whether everything else on the board is rolling.>
 
-Then a four-cell stat row as a small table: positions listed · fixed deadlines
+Then a four-cell stat row as a small table with the **numbers in the header
+row** and short all-caps labels below them: positions listed · fixed deadlines
 or review dates in the next 60 days · number open to non-US citizens with no
 stated restriction · number verified by an actual live page load this session.
 **Report that last number honestly, including when it is 0.**
+
+    | 46 | 17 | 26 | 35 |
+    |---|---|---|---|
+    | POSITIONS LISTED | DEADLINES OR REVIEW DATES IN THE NEXT 60 DAYS | OPEN TO NON-US CITIZENS (NO STATED RESTRICTION) | VERIFIED BY A LIVE PAGE LOAD THIS SESSION |
 
 Then a **jump grid**: a 3x3 markdown table with a header row
 `| Degree | Industry | Government | Academic |` and one row each for BS, MS,

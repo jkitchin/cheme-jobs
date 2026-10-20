@@ -75,6 +75,12 @@ function Table(t)
   if not seen_stats then
     seen_stats = true
     t.classes:insert("stats")
+    -- The numbers normally sit in the header row; flag tables written the
+    -- other way round so the CSS can enlarge the body row instead.
+    local first = t.head.rows[1] and t.head.rows[1].cells[1]
+    if first and not pandoc.utils.stringify(first.contents):match("^%s*%d") then
+      t.classes:insert("stats-labels-first")
+    end
   elseif has_header(t) then
     t.classes:insert("grid")
   else

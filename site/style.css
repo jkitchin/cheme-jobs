@@ -73,8 +73,16 @@ table.stats td {
   font-size: 11px; letter-spacing: .06em; color: var(--muted);
   vertical-align: top; padding: 2px 8px 0 0;
 }
+table.stats-labels-first th {
+  font-size: 11px; font-weight: 400; letter-spacing: .06em; color: var(--muted);
+  text-transform: uppercase; vertical-align: bottom;
+}
+table.stats-labels-first td { font-size: 2rem; color: var(--ink); text-align: left !important; }
+table.stats-labels-first td strong { font-weight: 700; }
 @media (max-width: 560px) {
   table.stats th { font-size: 1.5rem; }
+  table.stats-labels-first th { font-size: 10px; }
+  table.stats-labels-first td { font-size: 1.5rem; }
   table.stats td { font-size: 10px; }
 }
 
