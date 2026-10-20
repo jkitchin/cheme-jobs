@@ -1,0 +1,62 @@
+name: Publish site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "INTERNSHIPS.md"
+      - "archive/**"
+      - "site/**"
+      - ".github/workflows/pages.yml"
+  # The monthly search pushes with GITHUB_TOKEN, which does not fire `push`
+  # workflows, so also redeploy whenever that workflow finishes.
+  workflow_run:
+    workflows: ["Monthly ChemE internship search"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install pandoc
+        run: |
+          set -euo pipefail
+          VER=3.8.2.1
+          curl -fsSL -o "$RUNNER_TEMP/pandoc.deb" \
+            "https://github.com/jgm/pandoc/releases/download/$VER/pandoc-$VER-1-amd64.deb"
+          sudo dpkg -i "$RUNNER_TEMP/pandoc.deb"
+          pandoc --version | head -1
+
+      - name: Build site
+        run: site/build.sh _site
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

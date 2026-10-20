@@ -11,6 +11,13 @@ Code in GitHub Actions.
 - [`.github/workflows/internship-search.yml`](.github/workflows/internship-search.yml)
   — the schedule and the Claude invocation
 
+The current board is published at **https://kitchingroup.cheme.cmu.edu/cheme-jobs/**,
+with past runs under [`/archive/`](https://kitchingroup.cheme.cmu.edu/cheme-jobs/archive/).
+[`.github/workflows/pages.yml`](.github/workflows/pages.yml) renders the
+markdown with pandoc ([`site/`](site/) holds the template, CSS, and Lua filter)
+after every search run and on any push that touches the listings. Preview
+locally with `site/build.sh` and open `_site/index.html`.
+
 ## Schedule
 
 Runs at midnight UTC on the 1st of each month, and on demand from the Actions tab
