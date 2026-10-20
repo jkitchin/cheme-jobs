@@ -1,0 +1,161 @@
+name: Board search (reusable)
+
+# Shared body of the monthly searches. Each caller names a prompt, the file that
+# holds the current board, and the archive directory for dated snapshots.
+on:
+  workflow_call:
+    inputs:
+      prompt:
+        description: "Prompt template under prompts/"
+        required: true
+        type: string
+      current:
+        description: "File that holds the current board, e.g. INTERNSHIPS.md"
+        required: true
+        type: string
+      archive_dir:
+        description: "Directory for dated snapshots, e.g. archive"
+        required: true
+        type: string
+      label:
+        description: "Short name used in commit messages and the log artifact"
+        required: true
+        type: string
+      model:
+        type: string
+        default: "opus"
+      commit:
+        type: boolean
+        default: true
+      max_budget_usd:
+        type: string
+        default: "25"
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+    env:
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      MODEL: ${{ inputs.model }}
+      ARCHIVE_DIR: ${{ inputs.archive_dir }}
+      CURRENT: ${{ inputs.current }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check credentials
+        run: |
+          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ] && [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::No credentials. Set repo secret CLAUDE_CODE_OAUTH_TOKEN (from 'claude setup-token') or ANTHROPIC_API_KEY."
+            exit 1
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Build prompt
+        id: prompt
+        env:
+          PROMPT: ${{ inputs.prompt }}
+        run: |
+          set -euo pipefail
+          TODAY="$(date -u +%Y-%m-%d)"
+          # Reports are named by the month-day-year they were compiled on.
+          STAMP="$(date -u +%m-%d-%Y)"
+          OUT="${ARCHIVE_DIR}/${STAMP}.md"
+          echo "today=$TODAY"   >> "$GITHUB_OUTPUT"
+          echo "stamp=$STAMP"   >> "$GITHUB_OUTPUT"
+          echo "outfile=$OUT"   >> "$GITHUB_OUTPUT"
+          sed -e "s|{{TODAY}}|$TODAY|g" \
+              -e "s|{{STAMP}}|$STAMP|g" \
+              -e "s|{{OUTFILE}}|$OUT|g" \
+              "$PROMPT" > "$RUNNER_TEMP/prompt.md"
+          echo "--- prompt built ($(wc -l < "$RUNNER_TEMP/prompt.md") lines) ---"
+
+      - name: Run search
+        env:
+          OUTFILE: ${{ steps.prompt.outputs.outfile }}
+          BUDGET: ${{ inputs.max_budget_usd }}
+        run: |
+          set -euo pipefail
+          # An empty secret shows up as an empty env var; unset so auth resolution is unambiguous.
+          [ -n "${CLAUDE_CODE_OAUTH_TOKEN:-}" ] || unset CLAUDE_CODE_OAUTH_TOKEN
+          [ -n "${ANTHROPIC_API_KEY:-}" ]       || unset ANTHROPIC_API_KEY
+
+          claude -p \
+            --model "$MODEL" \
+            --fallback-model sonnet \
+            --permission-mode bypassPermissions \
+            --tools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep,TodoWrite" \
+            --max-budget-usd "$BUDGET" \
+            --output-format text \
+            < "$RUNNER_TEMP/prompt.md" | tee "$RUNNER_TEMP/run.log"
+
+          if [ ! -s "$OUTFILE" ] || [ "$(wc -c < "$OUTFILE")" -lt 2000 ]; then
+            echo "::error::$OUTFILE was not written (or is suspiciously small). See the run log artifact."
+            exit 1
+          fi
+
+      - name: Update current board and archive index
+        env:
+          OUTFILE: ${{ steps.prompt.outputs.outfile }}
+        run: |
+          set -euo pipefail
+          cp "$OUTFILE" "$CURRENT"
+          {
+            echo "# Archive"
+            echo
+            echo "Monthly snapshots of this board, named by the date"
+            echo "they were compiled (MM-DD-YYYY). Newest first."
+            echo
+            # Filenames are MM-DD-YYYY, which does not sort chronologically, so
+            # build a YYYY-MM-DD sort key for each and sort on that.
+            for f in "$ARCHIVE_DIR"/*.md; do
+              [ "$f" = "$ARCHIVE_DIR/INDEX.md" ] && continue
+              [ -e "$f" ] || continue
+              b="$(basename "$f" .md)"
+              case "$b" in
+                [0-9][0-9]-[0-9][0-9]-[0-9][0-9][0-9][0-9])
+                  key="${b:6:4}-${b:0:2}-${b:3:2}" ;;
+                *) key="$b" ;;
+              esac
+              printf '%s\t%s\n' "$key" "$b"
+            done | sort -r | cut -f2 | while read -r b; do
+              echo "- [$b]($b.md)"
+            done
+          } > "$ARCHIVE_DIR/INDEX.md"
+
+      - name: Commit results
+        if: ${{ inputs.commit }}
+        env:
+          STAMP: ${{ steps.prompt.outputs.stamp }}
+          LABEL: ${{ inputs.label }}
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$CURRENT" "$ARCHIVE_DIR"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "$LABEL compiled $STAMP"
+          # The other board may have pushed while this one ran.
+          git pull --rebase
+          git push
+
+      - name: Upload run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: claude-run-log-${{ inputs.label }}
+          path: ${{ runner.temp }}/run.log
+          if-no-files-found: warn

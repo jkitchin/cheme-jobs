@@ -1,0 +1,38 @@
+name: Monthly ChemE job search
+
+on:
+  schedule:
+    # Midnight UTC on the 15th of every month, offset from the internship search
+    - cron: "0 0 15 * *"
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "Model to run the search with"
+        default: "opus"
+        type: string
+      commit:
+        description: "Commit the results back to the repo"
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+# Shared with the internship search so the two never push at the same time.
+concurrency:
+  group: board-search
+  cancel-in-progress: false
+
+jobs:
+  search:
+    uses: ./.github/workflows/board-search.yml
+    secrets: inherit
+    with:
+      prompt: prompts/job-search.md
+      current: JOBS.md
+      archive_dir: jobs-archive
+      label: Job listings
+      model: ${{ inputs.model || 'opus' }}
+      # See internship-search.yml for why this gates on the event.
+      commit: ${{ github.event_name != 'workflow_dispatch' || inputs.commit }}
+      max_budget_usd: "30"

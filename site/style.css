@@ -112,6 +112,12 @@ table.facts td:first-child { width: 92px; padding-right: 12px; color: var(--mute
   table.facts td:first-child { width: 72px; }
 }
 
+/* Jump grid */
+table.grid { border-collapse: collapse; margin: 16px 0; font-size: 15px; }
+table.grid th, table.grid td { padding: 6px 16px 6px 0; text-align: left; border-bottom: 1px solid var(--line); }
+table.grid th { font-size: 12px; letter-spacing: .05em; color: var(--muted); text-transform: uppercase; }
+table.grid td:first-child { font-weight: 700; }
+
 code {
   font: 0.9em ui-monospace, SFMono-Regular, Menlo, monospace;
   background: var(--closed-bg); padding: 1px 4px; border-radius: 4px;

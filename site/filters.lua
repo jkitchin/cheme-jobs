@@ -1,7 +1,9 @@
 -- Pandoc filter that turns the report's markdown conventions into styled HTML:
 --   * a paragraph of only inline code is either the masthead kicker, a row of
 --     status badges (all-caps), or a card's location/req line
---   * the first table is the stat row
+--   * the first table is the stat row, other tables with a header row are
+--     grids (the job board's degree x sector jump table), headerless ones are
+--     a card's fact block
 --   * links to sibling .md files point at the rendered .html pages
 
 local seen_kicker = false
@@ -12,6 +14,8 @@ local BADGE_TONE = {
   ["HARD DEADLINE"] = "urgent",
   ["NOT YET POSTED"] = "later",
   ["LIKELY CLOSED"] = "closed", ["RETURNERS ONLY"] = "closed",
+  -- job board
+  ["NEW GRAD"] = "go", ["REVIEW BEGINS"] = "urgent",
 }
 
 local function only_code(inlines)
@@ -58,10 +62,21 @@ function Para(p)
   return pandoc.Div(pandoc.Plain(codes[1].text), {class = "meta"})
 end
 
+local function has_header(t)
+  for _, row in ipairs(t.head.rows) do
+    for _, cell in ipairs(row.cells) do
+      if #cell.contents > 0 then return true end
+    end
+  end
+  return false
+end
+
 function Table(t)
   if not seen_stats then
     seen_stats = true
     t.classes:insert("stats")
+  elseif has_header(t) then
+    t.classes:insert("grid")
   else
     t.classes:insert("facts")
   end

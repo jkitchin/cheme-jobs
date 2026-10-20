@@ -6,12 +6,14 @@ on:
     paths:
       - "INTERNSHIPS.md"
       - "archive/**"
+      - "JOBS.md"
+      - "jobs-archive/**"
       - "site/**"
       - ".github/workflows/pages.yml"
-  # The monthly search pushes with GITHUB_TOKEN, which does not fire `push`
-  # workflows, so also redeploy whenever that workflow finishes.
+  # The monthly searches push with GITHUB_TOKEN, which does not fire `push`
+  # workflows, so also redeploy whenever one of them finishes.
   workflow_run:
-    workflows: ["Monthly ChemE internship search"]
+    workflows: ["Monthly ChemE internship search", "Monthly ChemE job search"]
     types: [completed]
   workflow_dispatch:
 
