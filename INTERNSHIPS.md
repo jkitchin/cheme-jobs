@@ -1,115 +1,115 @@
-`COMPILED 2026-10-01 · SUMMER / SPRING 2027 · US POSTINGS`
+`COMPILED 2026-11-01 · SUMMER / SPRING 2027 · US POSTINGS`
 
 # Chemical Engineering Internship Board
 
-October is when the board stops being a watch list and becomes a set of
-deadlines. Refining and midstream are fully live, and the first company-set
-closing dates have arrived: Williams closes today, Eastman on 17 October and Dow
-on 25 October. Fabs (TSMC, GlobalFoundries, onsemi) and a few pharma reqs (Amgen)
-are open with no closing dates. DOE SULI Spring closed yesterday. The federal
-dates that matter now are ORNL on 28 October, EM STARS on 1 November and SCGSR on
-4 November, with SULI Summer opening 14 October. Postings are already dying
-within weeks. Hershey's co-op from last month's board is gone, and so are 2027
-reqs at P&G, Merck and Genentech that search engines still serve. Plan on that
-happening again.
+November is when the early wave starts closing behind you. Postings that looked
+live a month ago are now filled or gone: P&G's Summer 2027 engineering, R&D and
+manufacturing reqs, Eastman's Longview ChemE intern, TotalEnergies, Flint Hills
+and CVR. Refining (Phillips 66, Marathon, Chevron, ExxonMobil), fabs (TSMC,
+GlobalFoundries, Samsung) and Cargill, Lubrizol and Amgen are still open with no
+closing date. Three deadlines land today, SCGSR closes in three days, and a
+cluster of dated reqs and fellowships fall in November (BMS 7th, Georgia-Pacific
+14th, DAAD RISE 30th, Lilly 1 December). The big federal summer programs (SULI,
+SURF, NASA, ORNL) close from January to March, but their recommendation letters
+need asking for now.
 
 > **NEAREST HARD DEADLINE — 0 DAYS OUT**
-> **Williams — Summer 2027 Engineering Intern** closes **1 October 2026**, per the
-> posting text as mirrored on Simplify (Williams' own Workday page did not render
-> this session). If you are eligible, today is the only day you have. The
-> earliest deadline confirmed on a program's own page is **ORNL Research Student
-> Internships, Spring 2027**, which closes **28 October 2026 at 11:59 p.m. ET**, 27
-> days out. Most corporate postings on this board are rolling or close when
-> filled, but the dated ones are now arriving every week.
+> **DOE EM STARS Scholarship (Summer 2027 cohort)** closes **today, 1 November
+> 2026** ("apply by November 1!"). No time of day is stated, so assume it ends
+> tonight. **INROADS** fall priority consideration and a **Regeneron 2027
+> purification co-op** (aggregator copy) also end today. After those,
+> **SCGSR closes 4 November at 5:00 p.m. ET**, and it needs a lab host and a
+> proposal, so it cannot be started from scratch. Most corporate postings on this
+> board are rolling or "close when filled", and this month showed again that
+> "when filled" can come within weeks.
 
-| 45 | 8 | 13 | 38 |
+| 43 | 8 | 2 | 38 |
 |---|---|---|---|
-| POSTINGS AND PROGRAMS LISTED | FIXED DEADLINES IN THE NEXT 60 DAYS (THROUGH 30 NOV) | PROGRAMS ON THIS BOARD EXPECTED TO OPEN OCT 2026 – FEB 2027 | CARDS VERIFIED BY A LIVE PAGE LOAD THIS SESSION |
+| CARDS ON THIS BOARD | FIXED DEADLINES IN THE NEXT 60 DAYS (THROUGH 31 DEC) | PROGRAMS ON THIS BOARD EXPECTED TO OPEN NOV 2026 – FEB 2027 | CARDS VERIFIED BY A LIVE PAGE LOAD THIS SESSION |
 
-Of the 38 verified cards, 27 were read on the employer's or program's own page.
-The other 11 were read from a full-text aggregator copy of the requisition
-because the employer's Workday or Oracle page returned an empty body. Each of
-those cards says so. The remaining 7 cards are leads or `NOT VERIFIED`. Eight
-dated deadlines fall before 30 November. Only four of them (ORNL, EM STARS,
-INROADS, SCGSR) were confirmed on the program's own page.
+I loaded 38 of the 43 cards this session. 24 were read on the employer's or
+program's own page, 12 on a full-text aggregator or job-board copy because the
+employer's page returned an empty body or no primary page was found, and 2
+"closed" cards record live loads showing the postings are dead. The other 5 cards
+are leads. Four of the eight dated deadlines through 31 December (EM STARS,
+INROADS, SCGSR, DAAD RISE) were confirmed on the program's own page. Three
+(Regeneron, BMS, Georgia-Pacific) came from aggregator copies, and the Lilly date
+is a career-office listing's expiry date.
+The "expected to open" count is small on purpose: Penn's REU (17 Nov, stated by
+Penn) and Genentech (Nov–Mar, a third-party estimate).
 
 ---
 
-## Federal labs and fellowships
+## Federal labs, fellowships and pipeline programs
 
-This section has the dates that will not move, and its disqualifier is
-categorical. ORNL, EM STARS, SCGSR, SULI, NASA and NIST all require US
-citizenship or permanent residency, and EM STARS and NASA require citizenship
-itself. If you qualify, your next hour goes to the ORNL application (27 days) and
-to emailing a recommender for SULI Summer before it opens on 14 October. If you
-don't, NETL is still the one federal research route with no blanket citizenship
-bar and a 2.5 GPA floor. Its suggested spring date is today, but review is
-rolling.
-
-### Oak Ridge National Laboratory — Research Student Internships (RSI), Spring 2027
-`Oak Ridge, TN · ORNL-RSI-Spring-2027 via ORISE/Zintellect`
-
-A mentored research appointment at ORNL. The ChemE work is in separations,
-nuclear fuel cycle and molten-salt chemistry, bioenergy and materials. It is
-separate from SULI, so a student who missed yesterday's SULI Spring deadline
-still has a real second chance here. It also pays more than SULI: a stipend that
-scales with degree level plus a $250/week housing allowance. The trap is the
-calendar. This is a **spring semester** appointment (January to May), so you take
-it instead of a term at CMU, not on top of one. Students enrolled full-time may
-ask for part-time participation. Recent graduates (2 years + 30 days) and
-veterans with a recent DD-214 are eligible. A sibling program, ORNL Technical and
-Professional Internships (ORNL-TPI-Spring-2027), shows up on Zintellect with the
-same deadline but was not opened this session.
-
-[zintellect.com — ORNL-RSI-Spring-2027](https://www.zintellect.com/Opportunity/Details/ORNL-RSI-Spring-2027)
-
-`HARD DEADLINE`
-
-| | |
-|---|---|
-| **Deadline** | **28 Oct 2026, 11:59 p.m. ET** |
-| **Citizen** | "U.S. citizen or Lawful Permanent Resident (LPR) at the time of application" |
-| **GPA** | "cumulative GPA of at least 3.00 on a 4.00 scale at the time of application" (minimum) |
-| **Level** | Full-time undergraduate or graduate student; recent graduate within 2 years + 30 days; or veteran with a DD-214 within 4 years |
-| **Terms** | 19 Jan – 7 May 2027 (alternate 25 Jan start for non-academic conflicts), 16–19 weeks. $750/week undergrad, $850/week recent Bachelor's, $950/week graduate/recent Master's. Housing allowance $250/week. Travel up to $1,000 if you live 50+ miles away |
+Every deadline in this section will hold, and the disqualifier is categorical.
+EM STARS, NASA and WISE require citizenship or permanent residency, and EM STARS
+and NASA require citizenship itself. ORNL, SCGSR, SULI and SURF accept permanent
+residents. If you qualify, your next hour goes to emailing two recommenders for
+SULI (6 Jan) and SURF (late Jan), because letters count as part of the
+submission. If you don't, NETL (no blanket citizenship bar, 2.5 GPA) and DAAD
+RISE in Germany (no US-citizenship rule stated) are the realistic routes.
 
 ### US DOE Office of Environmental Management — EM STARS Scholarship, Summer 2027 cohort
 `Placement at DOE-EM sites · apply via ORISE`
 
-EM STARS is a scholarship with two paid summer internships attached, plus a
-service obligation, so it is not a plain internship. It pays up to $36,000/year
-in tuition and a $32,000/year stipend. In return you commit to apply for, and if
-selected keep, DOE-EM employment for as many years as you were funded. The
-ChemE-relevant research areas are tank waste (real separations and rheology work
-on the Hanford and Savannah River inventories), soil and groundwater,
-decommissioning and advanced manufacturing. The class-standing rule is narrow:
-you must have completed two full years and have no more than two years left. In
-practice that means current juniors. Last month's board couldn't find a deadline
-for this program. The ORISE program page now states it.
+EM STARS is a scholarship that comes with two paid summer internships and a
+service obligation, so it is more than an internship. It pays up to $36,000 a
+year in tuition plus a $32,000 annual stipend. In return you commit to apply for
+DOE-EM employment, and keep it if selected, for as many years as you were funded.
+The ChemE work is tank-waste separations and rheology, soil and groundwater
+remediation, and decommissioning. The class-standing rule effectively limits it
+to current juniors: two full years completed and no more than two years left.
+**The deadline is today.** The ORISE page still shows "Applications now open for
+Summer 2027!", so a submission tonight is possible if your materials are ready.
 
-[orise.orau.gov — EM STARS](https://orise.orau.gov/em-stars/) · [application page](https://orise.orau.gov/em-stars/application.html)
+[orise.orau.gov — EM STARS](https://orise.orau.gov/em-stars/)
 
-`HARD DEADLINE`
+`HARD DEADLINE` `LIVE`
 
 | | |
 |---|---|
 | **Deadline** | **1 Nov 2026** ("apply by November 1!"). No time of day stated |
-| **Citizen** | "Be a U.S. citizen." Permanent residents are not named as eligible |
+| **Citizen** | "Must be a U.S. citizen." Permanent residents are not named |
 | **GPA** | 3.0 / 4.0 cumulative minimum |
-| **Level** | Completed two full years of an undergraduate STEM degree that supports EM, with up to two years remaining; 18+ by program start |
-| **Terms** | Up to 2 years of undergraduate support (plus up to 2 more for a Master's). Tuition up to $36,000/yr, stipend $32,000/yr, $5,000/yr education allowance, two 10-week summer internships at $750/week. **Post-award EM employment obligation** |
+| **Level** | Enrolled undergraduate; two full years completed toward a STEM degree relevant to EM, with up to two years remaining; 18+ by program start |
+| **Terms** | Tuition up to $36,000/yr, stipend $32,000/yr, $5,000/yr education allowance. Two 10-week internships at $750/week plus housing up to $700/week, $50/week local transport, $1,000 travel for relocations over 50 miles. **Post-award EM employment obligation** |
+
+### INROADS — Internship Program (fall priority round)
+`National · corporate partner placements`
+
+INROADS is a pipeline organization, not an employer. You apply to INROADS, go
+through its preparation, and are matched to a partner company's paid summer
+internship. **Fall priority consideration ends today.** Applications stay open
+year-round, and the next priority date is 1 March. At 2.8 the GPA floor is lower
+than most corporate reqs, and INROADS says its own selection "is not based on
+citizenship status," though partners set their own work-authorization rules. The
+practical trap is housing. INROADS pays no relocation and says most partners
+don't either, so target placements near home or near Pittsburgh.
+
+[inroads.org — Internship FAQs](https://inroads.org/internships-program/faqs/)
+
+`ROLLING REVIEW` `HARD DEADLINE`
+
+| | |
+|---|---|
+| **Deadline** | Year-round. **Priority: 1 Nov 2026** (today) or 1 Mar 2027 |
+| **Citizen** | "INROADS selection process is not based on citizenship status." Partners may require citizenship or work authorization |
+| **GPA** | 2.8 cumulative minimum |
+| **Level** | Full-time undergraduate with "at least 1 summer or 27 credit hours remaining before graduating college" |
+| **Terms** | Paid summer placements. "INROADS does not pay for relocation or transportation." "Most INROADS Corporate Partners DO NOT provide relocation assistance" |
 
 ### US DOE Office of Science — Graduate Student Research Program (SCGSR)
 `DOE national laboratories · PhD students only`
 
-The federal route for **PhD students** to move part of their thesis research to a
-national lab for 3 to 12 months, working with a DOE lab scientist. For a CMU
-ChemE PhD student whose thesis touches catalysis, separations, energy storage or
-computation, this is the most valuable deadline in this section. It funds thesis
-work rather than a side project, so your advisor has a reason to support it. The
-trap is lead time. The application needs a lab collaborator who has agreed to
-host you and a research proposal, so a student who starts this week is already
-cutting it close. The program page does not state the stipend.
+This is the federal route for **PhD students** to move part of their thesis
+research to a national lab for 3–12 months, working with a DOE scientist. For a
+CMU ChemE PhD student working on catalysis, separations, energy storage or
+computation, it funds thesis work rather than a side project, which gives your
+advisor a reason to sign off. **The trap is lead time.** The application needs
+proof of PhD candidacy, a lab collaborator and a research proposal. If you have
+not already talked to a lab scientist, three days is probably not enough, but the
+next solicitation will come. The page says "supplemental funds" without a figure.
 
 [science.osti.gov — SCGSR](https://science.osti.gov/wdts/scgsr)
 
@@ -118,48 +118,119 @@ cutting it close. The program page does not state the stipend.
 | | |
 |---|---|
 | **Deadline** | **4 Nov 2026, 5:00 p.m. ET** |
-| **Citizen** | US citizen or lawful permanent resident |
-| **GPA** | Not stated on the page |
-| **Level** | Current PhD student |
-| **Terms** | 3–12 consecutive months at a DOE national laboratory. "Supplemental funds" provided; amount not stated on the page |
+| **Citizen** | "U.S. citizens or lawful permanent residents" |
+| **GPA** | Not stated |
+| **Level** | PhD student; proof of PhD candidacy required |
+| **Terms** | 3–12 consecutive months at a DOE lab. "Supplemental funds"; amount not stated |
+
+### DAAD — RISE Germany research internships, Summer 2027 · INTERNATIONAL
+`Host universities and institutes across Germany · apply via daad.de/rise`
+
+**International program, clearly labelled.** RISE Germany matches undergraduates
+from North American, British and Irish universities with German PhD students for
+a three-month summer research internship. Projects are posted in a database and
+you apply to specific ones. ChemE projects in process engineering, catalysis,
+polymers and energy materials typically appear. DAAD pays a monthly stipend, but
+the page gives no amount this cycle. Work is in English, so German is not
+required. **There are two deadlines:** your application closes 30 November, and
+your reference letter is due by 15 December. Placements are announced around
+February or March 2027.
+
+[daad.de — RISE Germany](https://www.daad.de/rise/en/rise-germany/)
+
+`LIVE` `HARD DEADLINE`
+
+| | |
+|---|---|
+| **Deadline** | **30 Nov 2026, 11:59 p.m. CET** (window opened 15 Oct). Reference letters by **15 Dec 2026** |
+| **Citizen** | No nationality rule stated. Eligibility is by enrollment at a North American, British or Irish university |
+| **GPA** | Not stated |
+| **Level** | Undergraduate. Class-year rules not stated on the page (secondary sources say 12+ months of study by the deadline, unverified) |
+| **Terms** | ~3 months, summer 2027. Monthly DAAD stipend; amount not stated on the page |
 
 ### US DOE Office of Science — Science Undergraduate Laboratory Internships (SULI), Summer 2027
 `One application · participating DOE national laboratories`
 
-One application covers every participating national lab, which makes it the
-highest-leverage form a US-citizen or permanent-resident undergraduate fills out
-this year. **The Spring 2027 session closed yesterday, 30 September at 5:00 p.m.
-ET.** If you were working from last month's board, that one is gone. Summer 2027
-opens on 14 October and closes on 6 January. The trap is the timing of the
-recommendations. Letters count as part of the submission, and 6 January falls in
-winter break, when professors are hard to reach, so ask in October. Offers start
-around 3 February. DOE marks every date "tentative and subject to change" and
-contingent on funding.
+One application covers every participating national lab, which makes it the most
+efficient form a US-citizen or permanent-resident undergraduate can fill out this
+year. Applications opened 14 October. The trap is the recommendations: the
+deadline counts "applications, including recommendations," and 6 January falls in
+winter break when faculty are hard to reach. DOE is running an application
+workshop on **4 November** and a virtual Summer Internship Fair on **12 November,
+1–5 p.m. ET**, where you can chat with lab researchers. Use the fair to name a
+lab and topic in your essay. Offers start around 3 February.
 
-[science.osti.gov — SULI Key Dates](https://science.osti.gov/wdts/suli/Key-Dates)
+[science.osti.gov — SULI Key Dates](https://science.osti.gov/wdts/suli/Key-Dates) · [energy.gov — Summer 2027 announcement](https://www.energy.gov/node/4860707)
 
-`NOT YET POSTED` `HARD DEADLINE`
+`LIVE` `HARD DEADLINE`
 
 | | |
 |---|---|
-| **Deadline** | Opens **14 Oct 2026**. Closes **6 Jan 2027, 5:00 p.m. ET**. Notifications from ~3 Feb 2027; offers complete ~14 Apr 2027 |
-| **Citizen** | US citizen or lawful permanent resident (per DOE eligibility rules; the Key Dates page itself does not restate it) |
-| **GPA** | 3.0 minimum (DOE eligibility rule, read on last month's board; not re-read this session) |
-| **Level** | Undergraduate or recent graduate. Credit-hour minimums must appear on the transcript you submit |
-| **Terms** | Summer 2027, 10 weeks at a DOE lab. Stipend not stated on the Key Dates page |
+| **Deadline** | **6 Jan 2027, 5:00 p.m. ET**, recommendations included. Offers from ~3 Feb; complete ~14 Apr |
+| **Citizen** | US citizen or lawful permanent resident (DOE eligibility rule; the Key Dates page does not restate it) |
+| **GPA** | Not on the pages read this session (the DOE eligibility page was not re-read) |
+| **Level** | Full-time student at a four-year institution or community college, or a recent graduate within two years |
+| **Terms** | Summer 10 weeks. Stipend amount not on the announcement. Travel and lodging help for participants outside commuting range |
+
+### NIST — Summer Undergraduate Research Fellowship (SURF), 2027
+`Gaithersburg, MD (SURF-2027-0001) · Boulder, CO (SURF-2027-0002) · USAJobs`
+
+SURF places undergraduates with NIST researchers. For ChemE, the Material
+Measurement and Engineering labs are the relevant homes. **Both 2027 vacancies are
+live on USAJobs now**, and you may apply to both with the same documents. The
+paperwork is the trap. You need two recommendation letters (uploaded by referees
+**no later than 3 days after the announcement closes**), an unofficial transcript,
+**proof of citizenship or residency** (birth certificate, passport or green card,
+not a driver's licence), a **copy of your health-insurance card** and a personal
+statement. "Incomplete applications will not be considered." The USAJobs pages
+loaded this session did not display the closing date.
+
+[usajobs.gov — SURF-2027-0001 Gaithersburg](https://www.usajobs.gov/job/889003500) · [SURF-2027-0002 Boulder](https://www.usajobs.gov/job/889006800) · [nist.gov/surf](https://www.nist.gov/surf)
+
+`LIVE` `HARD DEADLINE`
+
+| | |
+|---|---|
+| **Deadline** | Closing date not displayed on the loaded pages. `~26 Jan 2027 (third-party listing; not confirmed on USAJobs)`. Offers 1 Mar – 2 Apr; all notified by 15 Apr |
+| **Citizen** | "U.S. citizen or U.S. Permanent Resident" with documentary proof; background check; Selective Service registration for men born after 1959 |
+| **GPA** | "3.0 or higher on a 4.0 scale preferred" |
+| **Level** | Full-time degree-seeking undergraduate (first-year to senior) at an accredited US 2- or 4-year school; 18+ by 2 Jun 2027; health insurance required |
+| **Terms** | Main session 2 Jun – 13 Aug 2027 (9-week and offset 11-week options). Stipend $6,390–$7,810, plus housing and travel stipend for eligible relocators (NIST page: housing up to $4,500, travel up to $500 in 2026) |
+
+### Oak Ridge National Laboratory — Research Student Internships (RSI), Summer 2027
+`Oak Ridge, TN · ORNL-RSI-Summer-2027 via Zintellect`
+
+ORNL's own summer appointment, separate from SULI, so it is a second shot at the
+same lab with a later deadline. ChemE work spans separations, fuel-cycle and
+molten-salt chemistry, bioenergy and materials. It pays more than most federal
+programs: $750 a week for undergraduates plus a $250 weekly housing allowance.
+Recent graduates (within 2 years plus 30 days) and recently separated veterans
+are eligible. First-term freshmen are not: you must have completed at least one
+academic term.
+
+[zintellect.com — ORNL-RSI-Summer-2027](https://www.zintellect.com/Opportunity/Details/ORNL-RSI-Summer-2027)
+
+`LIVE` `HARD DEADLINE`
+
+| | |
+|---|---|
+| **Deadline** | **25 Feb 2027, 11:59:59 p.m. ET** |
+| **Citizen** | "U.S. citizens or Lawful Permanent Residents at the time of application" |
+| **GPA** | Cumulative 3.00 / 4.00 minimum at time of application |
+| **Level** | Full-time degree-seeking student at an accredited US institution with ≥1 term completed; or recent graduate (≤2 yrs + 30 days); or veteran (DD-214 ≤4 yrs); 18+. Postdocs ineligible |
+| **Terms** | 1 Jun – 6 Aug 2027 (alternate 7 or 14 Jun start), 10–12 weeks. $750/wk undergrad, $850 recent BS, $950 grad/recent MS. Housing allowance $250/wk |
 
 ### National Energy Technology Laboratory — Professional Internship Program (PIP)
 `Pittsburgh, PA · Morgantown, WV · Albany, OR · NETL-PIP via Zintellect`
 
-The best federal fit on this board for a CMU student, and the most accessible.
-NETL's research campus is in Pittsburgh, and its work (carbon capture, hydrogen,
-gasification, extreme-environment materials, process systems) is close to plain
-chemical engineering. Semester appointments are part-time at about 16–20 hours a
-week, so you can hold one during the school year without leaving campus. There
-is **no blanket citizenship restriction**. Individual projects can impose one,
-and non-citizens need DOE clearance, which the page warns can take more than
-seven weeks. The suggested date for spring appointments is today. Review is
-rolling, so apply this week rather than treating the date as a hard cutoff.
+This is still the best federal fit for a CMU student. NETL's Pittsburgh campus
+does carbon capture, hydrogen, gasification, process systems and materials work,
+which is plain chemical engineering. Semester appointments are part-time
+(~16–20 hrs/week), so you can hold one alongside classes. Review is rolling. The
+suggested date for **summer** is 15 February, but earlier is better. **There is no
+program-level citizenship bar**, though individual projects may impose one, and
+foreign nationals need DOE approval that "may take more than seven weeks". If you
+are not a US citizen or permanent resident, apply now, not in February.
 
 [zintellect.com — NETL-PIP](https://zintellect.com/Opportunity/Details/NETL-PIP)
 
@@ -167,22 +238,21 @@ rolling, so apply this week rather than treating the date as a hard cutoff.
 
 | | |
 |---|---|
-| **Deadline** | Rolling. Suggested dates: **1 Oct** for spring (today), **15 Feb** for summer, **1 Jun** for fall |
-| **Citizen** | No program-level restriction; "specific projects may have restrictions." Non-US citizens must document valid immigration status and obtain DOE clearance (can exceed seven weeks) |
+| **Deadline** | Rolling. Suggested: **15 Feb** (summer), 1 Jun (fall), 1 Oct (spring) |
+| **Citizen** | "This program does not have citizenship restrictions, although specific projects may have citizenship-based restrictions." Foreign nationals need DOE approval (7+ weeks) and proof of immigration status |
 | **GPA** | 2.5 / 4.0 overall minimum |
-| **Level** | Undergraduate or graduate student in good standing; recent Bachelor's or Master's graduate within 60 months; 18+ |
-| **Terms** | Part-time (~16–20 hrs/week) during semesters, full-time in summer. $750.50–$805/week undergrad; $1,167.50–$1,252.50 recent Bachelor's; $1,428–$1,532 graduate/recent Master's |
+| **Level** | Undergraduate or graduate student in good standing; recent BS or MS within 60 months; 18+; proof of health insurance |
+| **Terms** | Part-time in semesters, up to 40 hrs/wk in summer. $750.50–$805/wk undergrad; $1,167.50–$1,252.50 recent BS; $1,428–$1,532 grad/recent MS |
 
 ### NASA — Office of STEM Engagement (OSTEM) Internships, Summer and Fall 2027
-`All NASA centers · apply via NASA STEM Gateway`
+`All NASA centers · NASA STEM Gateway`
 
 A single application feeds every center, and NASA matches it to mentor-led
-projects. ChemE-relevant work runs through propulsion, life support, in-situ
-resource utilization, thermal and materials. The Spring 2027 session closed 14
-September. **NASA's own page now lists the Summer 2027 deadline as 1 March 2027**,
-while last month's board and several aggregators still say 26 February. Use the
-NASA date, and treat this as a reminder that these dates move. Summer is 10 weeks
-and fall is 15, so a fall session replaces a semester.
+projects. The ChemE-relevant work is in propulsion, life support, in-situ resource
+utilization, thermal and materials. The dates match last month's board, which is
+worth noting given how often NASA moved them earlier in the cycle. Fall is a
+15-week session, so it would replace a CMU semester. The stipend is
+"based on academic level and session duration" with no figure.
 
 [nasa.gov — Internship Programs](https://www.nasa.gov/learning-resources/internship-programs/)
 
@@ -191,93 +261,21 @@ and fall is 15, so a fall session replaces a semester.
 | | |
 |---|---|
 | **Deadline** | Summer 2027: **1 Mar 2027, 11:59 p.m. ET**. Fall 2027: **24 May 2027, 11:59 p.m. ET** |
-| **Citizen** | US citizen required |
-| **GPA** | 3.0 / 4.0 minimum (OSTEM) |
-| **Level** | Student at an accredited institution; 16+ at application |
-| **Terms** | Summer 10 weeks; fall/spring 15 weeks. "The majority of interns receive a stipend award, which is based on academic level and session duration" |
-
-### NIST — Summer Undergraduate Research Fellowship (SURF), 2027
-`Gaithersburg, MD · Boulder, CO · apply via USAJobs`
-
-SURF places undergraduates with NIST researchers. For ChemE, the Material
-Measurement and Engineering labs are the relevant homes. The page now gives a
-2027 timeline: the USAJobs vacancy opens in mid-October and applications are due
-at the end of January. The trap is USAJobs itself, which is slower and more
-document-heavy than a normal portal. Build the profile and collect your
-transcript before the vacancy opens. The page also says plainly that you must
-find your own housing, with up to $4,500 in assistance for students who relocate.
-
-[nist.gov/surf](https://www.nist.gov/surf)
-
-`NOT YET POSTED`
-
-| | |
-|---|---|
-| **Deadline** | Vacancy expected to open **mid-Oct 2026**. Applications due **end of Jan 2027** (exact date not yet posted) |
-| **Citizen** | "U.S. citizen or U.S. permanent resident able to provide proof on your application" |
-| **GPA** | No minimum stated |
-| **Level** | Full-time undergraduate at an accredited US college |
-| **Terms** | 2027 dates and stipend TBD. 2026 reference: $7,810 for 11 weeks ($710/week). Housing assistance up to $4,500 and travel up to $500 for relocators; you find your own housing |
-
-### Sandia National Laboratories — Student Internships and Co-ops
-`Albuquerque, NM · Livermore, CA · apply per requisition`
-
-Sandia has three formats on different clocks. Summer runs 10–12 weeks, from May
-to the last Thursday in August. Year-round is part-time during the term. Co-ops
-run 3–8 months and require enrollment in your school's official co-op program.
-ChemE work sits in energy storage, combustion, materials and process safety.
-There is no single application. You apply to each requisition separately, and
-they post on their own schedules, so set an alert in the Student job family. The
-real gate is the clearance: US citizenship is required "for positions that
-require security clearance or as stated in the job posting."
-
-[sandia.gov — Internships & Co-ops](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/)
-
-`ROLLING`
-
-| | |
-|---|---|
-| **Deadline** | Not stated; postings open and close individually |
-| **Citizen** | US citizenship required for clearance-requiring positions or where stated in the posting |
-| **GPA** | 3.0 / 4.0 minimum for undergraduate and graduate R&D/technical roles |
-| **Level** | Enrolled student. Year-round: up to 25 hrs/week undergrad, 30 graduate. Co-op requires enrollment in your school's official co-op program |
-| **Terms** | Summer 10–12 weeks, up to 40 hrs/week; co-op 3–8 months. Pay "based upon their classification and degree level"; no figures on the page |
-
-### INROADS — Internship Program
-`National · corporate partner placements`
-
-INROADS is a pipeline organization, not an employer. You apply to INROADS, go
-through their preparation, and they match you to a corporate partner's paid
-internship. The GPA floor is 2.8, lower than most of the corporate reqs on this
-board, and INROADS says its own selection "is not based on citizenship status,"
-although partners set their own work-authorization rules. Fall priority
-consideration closes 1 November. Two constraints: you need at least one summer or
-27 credit hours left before graduating, and INROADS does not pay for relocation.
-It says most partners don't either, so aim for placements near home.
-
-[inroads.org — Internship FAQs](https://inroads.org/internships-program/faqs/)
-
-`ROLLING REVIEW`
-
-| | |
-|---|---|
-| **Deadline** | Year-round. **Priority: 1 Nov 2026** (fall) or 1 Mar 2027 (spring) |
-| **Citizen** | "INROADS selection process is not based on citizenship status." Corporate partners may require work authorization |
-| **GPA** | 2.8 cumulative minimum |
-| **Level** | Full-time undergraduate with ≥1 summer or 27 credit hours remaining; graduate students generally not accepted |
-| **Terms** | Paid placements. "INROADS does not pay for relocation or transportation" |
+| **Citizen** | "U.S. Citizen" (OSTEM and Pathways) |
+| **GPA** | 3.0 / 4.0 (OSTEM); 2.9 (Pathways) |
+| **Level** | Student at an accredited institution |
+| **Terms** | "The majority of interns receive a paid stipend award, which is based on academic level and session duration" |
 
 ### Washington Internships for Students of Engineering (WISE) — Summer 2027
 `Washington, DC · apply through a sponsoring society`
 
-Nine weeks in DC writing a technology-policy paper. This is the only item on the
-board that turns a ChemE degree into a policy credential, and attendance is
-all-or-nothing: no late arrival, no early departure, no vacation. **The deadline
-on the program page moved from 5 February (last month) to 15 February 2027.** The
-trap is structural. You don't apply to WISE; you apply through a sponsoring
-society, and of the four the page shows, only ASTM International is open. ANS,
-ASHRAE and IEEE show CLOSED, and ANS and IEEE also require membership. AIChE is
-not in that list, so check with AIChE directly.
+Nine weeks in DC writing a technology-policy paper. It is the one item on the
+board that turns a ChemE degree into a policy credential. Attendance is
+all-or-nothing: "The dates of the WISE program are not flexible." **What changed
+since last month:** the **American Chemical Society** now appears as an *open*
+sponsoring society, the natural home for a ChemE applicant. ANS and IEEE are
+open too but require membership, ASTM is open and ASHRAE is closed. ACS shows a
+"Learn More" link rather than a form, so email its coordinator first.
 
 [wise-intern.org — How To Apply](https://wise-intern.org/home/how-apply/)
 
@@ -285,59 +283,222 @@ not in that list, so check with AIChE directly.
 
 | | |
 |---|---|
-| **Deadline** | **15 Feb 2027, 5:00 p.m. ET**. Individual society windows vary; three of four shown are closed |
-| **Citizen** | "You MUST BE a citizen or legal permanent resident of the United States" |
+| **Deadline** | **15 Feb 2027, 5:00 p.m. ET**; individual society windows vary |
+| **Citizen** | US citizen or legal permanent resident |
 | **GPA** | Not stated |
-| **Level** | Junior, senior or final-year undergraduate in engineering/CS, or engineering graduate starting a Master's in technology policy |
-| **Terms** | 6 Jun – 7 Aug 2027, nine weeks, full participation mandatory. Stipend not stated on the page |
+| **Level** | Junior, senior or final-year undergraduate in engineering/CS, or engineering graduate starting a technology-policy Master's |
+| **Terms** | 6 Jun – 7 Aug 2027, nine weeks, full attendance mandatory. Stipend not stated on the page |
+
+### Sandia National Laboratories — Student Internships and Co-ops
+`Albuquerque, NM · Livermore, CA · apply per requisition`
+
+Sandia runs three formats on different clocks. Summer is 10–12 weeks, from May to
+the last Thursday of August. Year-round is part-time during term (up to 25 hrs/wk
+undergrad, 30 grad). Co-ops run 3–8 months and require enrollment in your
+school's official co-op program. ChemE work is in energy storage, combustion,
+materials and process safety. There is no single application: each requisition
+is separate and posts on its own schedule, so set a Student job-family alert. The
+real gate is clearance: US citizenship is required "for positions that require
+security clearance or as stated in the job posting."
+
+[sandia.gov — Internships & Co-ops](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/)
+
+`ROLLING`
+
+| | |
+|---|---|
+| **Deadline** | Not stated; requisitions open and close individually |
+| **Citizen** | US citizenship for clearance-requiring positions or where the posting states it |
+| **GPA** | 3.0 / 4.0 minimum (undergrad and grad R&D/technical), not rounded |
+| **Level** | Enrolled full-time; summer interns must be full-time in the preceding spring; 16+. Co-op requires an official school co-op program |
+| **Terms** | Summer 10–12 weeks, up to 40 hrs/wk; co-op 3–8 months. Hourly pay by classification, degree level and credit hours (2025 chart on Sandia's site) |
+
+### Naval Nuclear Laboratory · Y-12 National Security Complex · Centrus Energy — Summer 2027 nuclear-sector ChemE leads
+`West Mifflin, PA (NNL Bettis) · Oak Ridge, TN (Y-12; Centrus)`
+
+These are three clearance-heavy nuclear-sector employers with Summer 2027 ChemE
+roles that this session could not open on a primary page. **Naval Nuclear
+Laboratory** (Fluor Marine Propulsion) has a Chemistry & Chemical Engineering
+summer 2027 internship at the Bettis site in **West Mifflin, about 10 miles from
+CMU**. Aggregators show $25–$42.50/hr, and a third-party guide says applications
+close 31 December 2026 and require US citizenship. An Oregon State flyer gives a
+conflicting window, so treat the date as unconfirmed. **Y-12** says recruiting for
+Summer 2027 began in September and lists chemical engineering. Its own
+university-recruitment page (stale, with 2020 events) says postings go up in
+October and require junior standing or higher and a 3.0 GPA. **Centrus Energy**
+lists an Engineering Intern (Chem/Electrical/Mechanical), Summer 2027, in Oak
+Ridge, seen only in a search snippet.
+
+[y12.doe.gov — University Recruitment](https://www.y12.doe.gov/careers/university-recruitment) · [extern.com — NNL guide (third-party)](https://www.extern.com/post/naval-nuclear-laboratory-internship-guide)
+
+`LEADS — DETAILS UNCONFIRMED`
+
+| | |
+|---|---|
+| **Deadline** | NNL `~31 Dec 2026 (third-party guide; conflicting flyer)`. Y-12 and Centrus not stated |
+| **Citizen** | NNL: US citizenship per third-party guide (naval reactors work). Y-12: not stated on its page; clearance environment |
+| **GPA** | Y-12: 3.0 minimum (its own page) |
+| **Level** | Y-12: junior, senior or graduate student. NNL: BS/MS/PhD in chemistry, ChemE or related (2026 posting) |
+| **Terms** | NNL 10–12 weeks, $25–$42.50/hr (aggregator). Y-12: not stated |
 
 ---
 
-## Refining, midstream and energy
+## Graduate and PhD routes
 
-This is the densest live sector for undergraduates. Every major requisition here
-is open now, and one closes today. The universal disqualifier is work
-authorization, not GPA. Every refiner and pipeline posting below excludes
-temporary-visa holders, and Williams goes further by refusing OPT and CPT. The
-second filter is physical: clean-shaven for respirator fit, TWIC, a driver's
-licence. If you are eligible, apply to Phillips 66 and Marathon this week, because
-nobody announces when a "closes when filled" req fills.
+The graduate market has more dated deadlines than the undergraduate one this
+month. BMS's PhD drug-product internships close 7 November, the Lilly doctoral
+listing expires 1 December, and SCGSR (federal section) closes 4 November. The
+common disqualifier is sponsorship: BMS states it outright, and Amgen says future
+full-time sponsorship "is not guaranteed." For a CMU ChemE PhD student, the BMS
+application this week and the Micron Albany req (semiconductor process R&D close
+to Pittsburgh) are worth the next hour.
 
-### Williams — Summer 2027 Engineering Intern
-`Tulsa OK (HQ) · Houston TX · Salt Lake City UT · field locations · req R112605`
+### Bristol Myers Squibb — 2027 Summer Intern PhD Student, Drug Product Development (Oral Formulation)
+`New Brunswick, NJ · req R1607390 (sibling: Sterile Formulation R1607524)`
 
-Midstream natural gas: gathering, processing and transmission. Interns analyze
-real-time operating data to find efficiencies and keep assets maintained, and
-they support major projects and capacity expansions. The pay is near the top of
-the sector, with a housing stipend and relocation on top. **Two traps.** The
-deadline is today. And the work-authorization line is the strictest on the board:
-the position is "not eligible for sponsorship, Optional Practical Training or
-Curricular Practical Training," which rules out F-1 students entirely. You also
-need a clean driving record, not just a licence.
+A ten-week mentored research project on oral drug products: formulation and
+process technologies, drug-delivery systems and biopharmaceutical
+characterization. It includes hands-on training in manufacturing process areas
+and a final formal presentation. Chemical engineering is named among the eligible
+engineering PhDs. A sterile-formulation sibling (R1607524) exists but was not
+opened. **Two traps.** The deadline is 7 November, six days away, with rolling
+review before that. And the posting says selected candidates will be notified
+"no later than February **2026**", a date before the posting itself, almost
+certainly a typo for 2027.
 
-[williams.wd5.myworkdayjobs.com — R112605](https://williams.wd5.myworkdayjobs.com/external/job/ok-tulsa---headquarters/summer-2027-engineering-intern_r112605) · [read this session via simplify.jobs mirror](https://simplify.jobs/p/dccb7c0f-ce4a-4f90-80f7-fa0edb15bcea/Engineering-Intern)
+[read this session via xtalks.com mirror — R1607390](https://xtalks.com/job/2027-summer-intern-phd-student-drug-product-development-oral-formulation/)
 
 `HARD DEADLINE` `LIVE`
 
 | | |
 |---|---|
-| **Deadline** | **1 Oct 2026** (today), per the mirrored posting text; posted 24 Aug 2026 |
-| **Citizen** | "This position is not eligible for sponsorship, Optional Practical Training or Curricular Practical Training." No H-1B sponsorship |
+| **Deadline** | **7 Nov 2026** (rolling review); posted 9 Oct 2026 |
+| **Citizen** | "All candidates must be authorized to work in the US both at the time of hire and for the duration of their employment." Immigration/visa sponsorship not available |
+| **GPA** | 3.0 or higher; GPA must appear on the résumé |
+| **Level** | Enrolled PhD (biochemistry; biomedical, **chemical**, mechanical or industrial engineering; pharmaceutical sciences); expected graduation Fall 2027 – 2028 |
+| **Terms** | 7 Jun – 13 Aug 2027. $45.00/hr |
+| **Verification** | No BMS-hosted page loaded; facts read from a full-text aggregator copy |
+
+### Eli Lilly — Lilly Research Laboratories TDA, 2027 Summer Doctoral Intern
+`Indianapolis, IN (HQ) · also Boston, San Diego, Pasadena, South San Francisco`
+
+A doctoral internship with one project in Drug Discovery or Development. The
+ChemE-relevant areas are **flow chemistry, purification and formulation, and drug
+product design**, alongside AI/ML, synthesis and bioassay work. Chemical
+engineering PhDs are explicitly eligible, and the posting stresses fluency with
+AI tools. The 1 December date is a **career-office listing expiration**, not a
+date Lilly published, so the Workday req (R-110519 per last month's search) may
+close earlier. It returned an empty body last month and was not retried.
+
+[careerservices.fas.harvard.edu — Lilly TDA 2027 Summer Doctoral Intern](https://careerservices.fas.harvard.edu/jobs/eli-lilly-lilly-research-laboratories-tda-2027-summer-doctoral-inter/)
+
+`LIVE` `HARD DEADLINE`
+
+| | |
+|---|---|
+| **Deadline** | Listing expires **1 Dec 2026**; recruitment began 29 Sep 2026. Lilly's own close date not confirmed |
+| **Citizen** | Not stated on the listing |
 | **GPA** | Not stated |
-| **Level** | BS or MS in chemical, civil, electrical, environmental, energy, mechanical or petroleum engineering; graduation **Dec 2027 or later**. **Valid driver's licence with a clean driving record**; willing to relocate |
-| **Terms** | 10–12 weeks. $33.70–$47.60/hr by graduation date (Master's at the top). $2,500 housing stipend plus relocation for moves over 50 miles |
-| **Verification** | Williams' Workday page returned an empty body; facts read from a full-text mirror |
+| **Level** | Enrolled PhD or PharmD in biology, chemistry, biochemistry, **chemical engineering**, biomedical or mechanical engineering, or related |
+| **Terms** | Summer 2027, start May or June 2027. Pay not stated |
+| **Verification** | Read on a university career-services copy (Symplicity #332458), not Lilly's Workday |
+
+### Micron Technology — Intern, Semiconductor Research & Technology Development (MS/PhD)
+`Albany, NY — Albany NanoTech`
+
+Micron's Summer 2027 technology-development program at Albany NanoTech covers
+lithography, materials, process integration, deposition, etch and metrology. You
+design experiments, analyze process data statistically and present to technical
+leadership. **Chemical Engineering is listed first** among eligible majors. The
+pay ($46.51/hr flat) is the highest hourly figure among graduate reqs on this
+board. The graduation gate is **December 2027 or later**, so a Master's student
+finishing in spring 2027 is out. Last month's PhD DRAM thin-films req in Boise
+(JR107203) no longer appears on the mirror that showed it, so treat that one as
+unconfirmed.
+
+[read this session via builtinlondon.uk mirror](https://builtinlondon.uk/job/intern-semiconductor-research-technology-development/11185537)
+
+`LIVE` `ROLLING`
+
+| | |
+|---|---|
+| **Deadline** | Not stated; "reposted 14 days ago" |
+| **Citizen** | No work-authorization or export language on the mirrored posting |
+| **GPA** | Not stated |
+| **Level** | Current Master's or PhD student; **graduation Dec 2027 or later**; ChemE, MSE, EE, ME, Physics, Chemistry, CompE, Data Science. Cleanroom, DOE/statistics, Python/JMP preferred |
+| **Terms** | Summer 2027, in office. $46.51/hr |
+| **Verification** | No Micron-hosted page loaded; facts read from a full-text aggregator copy |
+
+### Amgen — Grad Intern, Operations – Process Development (Summer 2027)
+`Thousand Oaks, CA · req R-254519`
+
+The graduate counterpart to Amgen's undergraduate process development req: a
+technical project in Drug Substance or Drug Product Technologies, Attribute
+Sciences, Manufacturing and Clinical Supply, or Combination Products. Master's,
+PhD, PharmD and MBA students qualify if they **finish the first year of their
+program before the start**, so a first-year PhD student this fall is eligible.
+Amgen states it has no deadline and takes applications until it has enough. The
+page now shows a 13 October posting date, which suggests it was refreshed rather
+than closed.
+
+[careers.amgen.com — R-254519](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184)
+
+`LIVE` `ROLLING`
+
+| | |
+|---|---|
+| **Deadline** | "Amgen does not have an application deadline for this position" |
+| **Citizen** | "Candidates must be authorized to work in the U.S. for the duration of this program." Sponsorship for future full-time roles not guaranteed |
+| **GPA** | Not stated |
+| **Level** | Bachelor's held; enrolled in MS/PhD/PharmD/MBA with first year done before start; continuing enrollment after; 18+; located in the US for the internship |
+| **Terms** | Summer 2027, full-time on-site. $35.34–$41.20/hr |
+
+### ExxonMobil — PhD Students Seeking Internship Opportunities
+`Spring TX + Baton Rouge, Baytown, Beaumont, Joliet, Mont Belvieu · req 1415301000`
+
+An evergreen PhD intake req, still showing "Apply now". You apply into a pool and
+are matched to a ~3-month summer internship or a 4–5-month fall/spring co-op.
+Chemical Engineering, Chemistry, Materials Science and Polymer Engineering are
+among the listed fields. The posting names no cycle year, no deadline and no
+work-authorization rule. The only pay figure is the Illinois disclosure, so treat
+it as Joliet-specific. Interns get medical, dental and vision coverage.
+
+[jobs.exxonmobil.com — req 1415301000](https://jobs.exxonmobil.com/job/Spring-PhD-Students-Seeking-Internship-Opportunities-TX-77389/1415301000/)
+
+`LIVE` `VERIFY SEASON`
+
+| | |
+|---|---|
+| **Deadline** | Not stated |
+| **Citizen** | Not stated on the posting |
+| **GPA** | Not stated; "strong academic performance" |
+| **Level** | Currently pursuing a PhD in a STEM discipline (ChemE, Chemistry, MSE, Polymer Eng. and many others) |
+| **Terms** | Summer ~3 months or co-op 4–5 months. Illinois disclosure $90,000–$145,000 annualized; medical/dental/vision |
+
+---
+
+## Refining, midstream and energy
+
+This is still the densest live sector for US-citizen and permanent-resident
+undergraduates, but it is thinning fast. Since last month TotalEnergies' req
+returned 404, Flint Hills' Pine Bend req 404'd, and the Flint Hills Corpus
+Christi and CVR Wynnewood ChemE reqs are marked inactive. The universal
+disqualifier is work authorization: every req here excludes temporary-visa
+holders. Phillips 66 lists the excluded visa classes (E, F-1, H-1, H-2, L, B, J,
+TN) on its midstream req, and Chevron adds a sanctioned-country export bar. Apply
+to Phillips 66 and Marathon this week. Nobody announces when "closes when filled"
+happens.
 
 ### Phillips 66 — 2027 University Intern, Refining Engineer
-`Sweeny TX · Ponca City OK · Westlake LA · Rodeo CA · Roxana IL · Ferndale WA · Borger TX · Linden NJ · req 1418467500`
+`Sweeny TX · Westlake LA · Borger TX · Linden NJ · Ferndale WA · Roxana IL · Ponca City OK · Rodeo CA · req 1418467500`
 
-Still live, and still the most complete refining posting of the cycle. The work
-is optimizing an existing process, improving energy efficiency and reliability
-alongside unit engineers, then presenting to leadership. The physical
-requirements are basic qualifications, not preferences: you must keep a face
-that lets a respirator seal, and you must be able to obtain a TWIC. The
-graduation gate is **August 2027 or later**, so a spring-2027 graduate is out.
-The 3.0 GPA is a preference, not a cutoff.
+Still live, and still the most complete refining posting of the cycle. You
+optimize an existing process and improve energy efficiency and reliability
+alongside unit engineers, then present to leadership. The respirator-seal
+requirement is a basic qualification: you must keep your face free of hair
+"so that a respirator/face mask can seal properly." Last month's read also listed
+TWIC eligibility, which was not re-confirmed in this session's extract. The
+graduation gate is **August 2027 or later**, so a spring 2027 graduate is out.
 
 [careers.phillips66.com — req 1418467500](https://careers.phillips66.com/job/Sweeny-2027-University-Intern-Refining-Engineer-TX-77480/1418467500/)
 
@@ -346,21 +507,19 @@ The 3.0 GPA is a preference, not a cutoff.
 | | |
 |---|---|
 | **Deadline** | Not stated; closes when filled |
-| **Citizen** | "Must be a U.S. citizen or national, or an alien admitted as permanent resident, refugee, asylee or temporary resident." Temporary visa holders ineligible |
+| **Citizen** | US citizen/national, permanent resident, refugee, asylee or temporary resident under 8 U.S.C. 1160(a)(1). Temporary-visa holders and anyone needing sponsorship now or later ineligible |
 | **GPA** | 3.0 / 4.0 **preferred** |
-| **Level** | BS/MS in Chemical, Mechanical, Electrical, Civil, Metallurgical Engineering or Materials Science/Corrosion; >30 credit hours earned; graduation Aug 2027 or later. Respirator-seal (clean-shaven) requirement; must be able to obtain a TWIC |
-| **Terms** | Minimum 11 continuous weeks, summer. $2,564–$3,418 bi-weekly by degree type and graduation date |
+| **Level** | Bachelor's or Master's; >30 credit hours earned; graduation **Aug 2027 or later**; ≥11 continuous weeks available. Clean-shaven respirator-seal requirement |
+| **Terms** | Summer 2027, minimum 11 weeks. $2,564–$3,418 bi-weekly by degree type and graduation date |
 
 ### Phillips 66 — 2027 University Intern, Midstream Engineering
-`Houston TX · Midland TX · Bartlesville OK · req 1418408900`
+`Houston TX · Bartlesville OK · Midland TX · req 1418408900`
 
-The pipeline, terminal and fractionation counterpart to the refining req. This
-session's load shows **Midland, TX added** as a location. It pays more at the top
-of the band ($3,946 bi-weekly against $3,418), and there is no GPA anywhere in the
-posting, which makes it the softer of the two P66 entries for a student under 3.0.
-The visa language spells out the excluded classes (E, F-1, H-1, H-2, L, B, J, TN).
-That is a more explicit list than most postings give, and it confirms that
-F-1/CPT students are out.
+The pipeline, terminal and fractionation counterpart to the refining req. It pays
+more at the top ($3,946 bi-weekly against $3,418) and states **no GPA
+requirement**, which makes it the softer Phillips 66 option for a student under
+3.0. The visa language is the most explicit in the sector: E, F-1, H-1, H-2, L,
+B, J and TN holders are ineligible, so F-1 students on CPT are out.
 
 [careers.phillips66.com — req 1418408900](https://careers.phillips66.com/job/Houston-2027-University-Intern-Midstream-Engineering-TX-77042/1418408900/)
 
@@ -369,122 +528,72 @@ F-1/CPT students are out.
 | | |
 |---|---|
 | **Deadline** | Not stated; closes when filled |
-| **Citizen** | US citizen/national, permanent resident, refugee, asylee or temporary resident. Temporary visa holders (E, F-1, H-1, H-2, L, B, J, TN) and anyone needing sponsorship ineligible |
-| **GPA** | Not specified |
-| **Level** | BS/MS in Chemical, Mechanical, Electrical, Civil, Metallurgical Engineering or Materials Science/Corrosion; >30 credit hours; graduation Aug 2027 or later |
-| **Terms** | Minimum 11 continuous weeks. $2,564–$3,946 bi-weekly by degree type and graduation date |
+| **Citizen** | As above. "Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN" or needing sponsorship ineligible |
+| **GPA** | None listed |
+| **Level** | >30 credit hours; graduation **Aug 2027 or later**; enrolled for the full internship |
+| **Terms** | Summer 2027, minimum 11 weeks. $2,564–$3,946 bi-weekly |
 
 ### Marathon Petroleum — Refining Chemical Engineering Intern/Co-op, Summer 2027
-`Findlay OH (primary) + Anacortes, Canonsburg PA, Canton, Catlettsburg, Detroit, El Paso, Garyville, Kenai, Mandan, Martinez, Robinson, Salt Lake City, San Antonio, St Paul Park, Texas City, Wilmington · req 00024022`
+`Findlay OH + Anacortes, Canonsburg PA, Canton, Catlettsburg, Detroit, El Paso, Garyville, Kenai, Mandan, Martinez, Robinson, Salt Lake City, San Antonio, St Paul Park, Texas City, Wilmington · req 00024022`
 
-The Summer 2027 version of the requisition, posted about two weeks ago. It joins
-the Spring 2027 req (00020447) already on last month's board. There are four
-tracks. Process/Technical Service runs test runs and process calculations.
-Operations Research builds crude purchasing, production and blending models.
-Environmental covers RMP calculations and wastewater. Products
-Control/Economics compares unit data against optimum operating levels. Canonsburg
-is a Pittsburgh-area office. The authorization language rules out sponsorship
-"now or in the future," and a valid driver's licence is required. The mirror
-oddly classifies the req as "Part-time." Read that as a data-entry artifact, not
-a reduced-hours internship, but confirm with the recruiter.
+Four tracks. Process/Technical Service runs test runs and process calculations.
+Operations Research builds crude, production and blending models. Environmental
+covers RMP calculations and wastewater. Products Control/Economics compares unit
+data against optimum levels. **Canonsburg is a Pittsburgh-area office.** The
+posting prefers multiple work terms, so read it as co-op-friendly. A valid
+driver's licence is required. The Workday page again returned an empty body, and
+the mirror says "posted 1mo ago" without showing a closed status. Confirm on
+Workday before you invest in a cover letter.
 
-[mpc.wd1.myworkdayjobs.com — req 00024022](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Refining-Chemical-Engineering-Intern-Co-op-Summer-2027_00024022) · [read this session via dreamworkhq mirror](https://www.dreamworkhq.com/job/51cfba90-e3c8-4952-aa53-e22c0899e517) · [Spring 2027 sibling req 00020447](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Refining-Chemical-Engineering-Intern-Co-op-Spring-2027_00020447)
+[mpc.wd1.myworkdayjobs.com — req 00024022](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Summer-2027_00024022) · [read this session via dreamworkhq mirror](https://www.dreamworkhq.com/job/51cfba90-e3c8-4952-aa53-e22c0899e517)
 
 `LIVE` `ROLLING`
 
 | | |
 |---|---|
-| **Deadline** | Not stated; closes when filled |
-| **Citizen** | Must be "authorized to work in the US on a full-time indefinite basis without the need for employment visa sponsorship" (now or in the future) |
+| **Deadline** | Not stated |
+| **Citizen** | "Authorized to work in the US on a full-time indefinite basis" without employment visa sponsorship now or in the future |
 | **GPA** | Not specified; "strong academic performance" |
-| **Level** | Chemical Engineering major; currently enrolled; **valid driver's licence required**; military experience preferred |
-| **Terms** | Summer 2027. $33.54–$42.45/hr plus discretionary annual bonus program |
-| **Verification** | Marathon's Workday page returned an empty body; facts read from a full-text mirror |
-
-### Flint Hills Resources (Koch) — "Summer 2027" Chemical Engineering Intern
-`Rosemount, MN — Pine Bend Refinery · req 189408`
-
-Last month this was a discrepancy. Now it reads as a mislabel. The title still
-says Summer 2027, but the description loaded this session says outright "we are
-hiring for **Summer 2028** Chemical Engineering Interns." The work itself is good:
-a 12-week, in-person internship at Pine Bend covering process engineering, plant
-optimization, process controls and troubleshooting, at $35/hr. But a sophomore
-applying for next summer may be entering the wrong cycle. If you are a first-year
-or a sophomore planning ahead, it may suit you. Everyone else should email the
-recruiter before applying.
-
-[koch.avature.net — req 189408](https://koch.avature.net/en_US/careers/JobDetail/Rosemount-Minnesota-United-States-189408-Summer-2027-Chemical-Engineering-Intern-MN/189408)
-
-`LIVE` `VERIFY SEASON`
-
-| | |
-|---|---|
-| **Deadline** | Not stated |
-| **Citizen** | "legal authorization to work permanently in the United States for any employer without requiring a visa transfer or visa sponsorship" |
-| **GPA** | Not specified |
-| **Level** | Enrolled in a 4-year Chemical Engineering program; able to work full-time during or before the target summer |
-| **Terms** | 12 weeks in person. $35.00/hr. **Title says 2027; body says Summer 2028** |
-
-### TotalEnergies — 2027 Engineering Summer Internship
-`La Porte TX · Port Arthur TX · Carville LA (Houston corporate) · job 83718`
-
-A plant-floor internship at Gulf Coast refining and petrochemical sites. You
-monitor unit performance from control systems, support maintenance, take part in
-process hazard analyses, run small projects and do the bread-and-butter
-calculations: pressure drops, heat balances, valve sizing. The posting says it
-wants someone who wants to be "in the field, not just in an office," and it lists
-"good physical fitness." At 2.8, the GPA floor is lower than most refiners'. The
-graduation window (Dec 2027 – May 2029) covers sophomores and juniors. The posting
-is **silent on work authorization and pay**, so ask before assuming either way.
-
-[jobs.totalenergies.com — job 83718](https://jobs.totalenergies.com/en_US/careers/JobDetail/2027-Engineering-Summer-Internship/83718)
-
-`LIVE` `ROLLING`
-
-| | |
-|---|---|
-| **Deadline** | Not stated |
-| **Citizen** | Not stated on the posting |
-| **GPA** | 2.8 or higher (minimum) |
-| **Level** | BS in Chemical or Mechanical Engineering; graduating Dec 2027 – May 2029; spreadsheet skills; process simulation helpful; "good physical fitness" |
-| **Terms** | Summer 2027; length and pay not stated |
+| **Level** | Chemical Engineering major; concurrently enrolled; **valid driver's licence required**; multiple work terms preferred; military experience a plus |
+| **Terms** | Summer 2027. $33.54–$42.45/hr plus discretionary annual bonus |
+| **Verification** | Workday returned an empty body; facts read from a full-text mirror |
 
 ### Chevron — 2026-2027 Facilities Engineering Chemical Engineering Intern
-`12 US sites incl. Houston TX, Bakersfield CA, Midland TX, Greeley CO, New Orleans area LA · req R000072335`
+`13 US sites incl. Houston TX, Salt Lake City UT, Richmond CA, Pascagoula MS, Geismar LA, Midland TX, Bakersfield CA · req R000072335`
 
-A process-engineering mentor and one or more projects supporting operating
-facilities: safety and reliability optimization, turnaround and project support,
-carbon and efficiency technology, operational data analytics. The package is
-strong, with furnished housing and a 401(k) match. The trap is the **"2026-2027"
-label**. Chevron uses an academic-year label, which most likely means the Summer
-2027 intake, but the mirrored text did not state the summer explicitly. Chevron
-also excludes candidates from countries under comprehensive US sanctions, on top
-of declining visa sponsorship.
+You get a process-engineering mentor and projects that support operating
+facilities: optimization, turnaround and project support, carbon-reduction and
+efficiency technology, and data analytics. The package is the richest in the
+sector: furnished housing, a 401(k) match up to 8%, 9/80 or 4/10 schedules, and
+a year of service credit per internship. Simplify marked it "confirmed live in
+the last 24 hours." **Traps:** the academic-year label "2026-2027" (most likely
+the Summer 2027 intake, but not stated), an odd "deadline 7/1/27" shown only on
+Simplify, and an export-control bar on citizens *or permanent residents* of
+comprehensively sanctioned countries.
 
-[chevron.wd5.myworkdayjobs.com — R000072335](https://chevron.wd5.myworkdayjobs.com/en-US/University/job/XMLNAME-2026-2027-Facilities-Engineering-Chemical-Engineering-Intern_R000072335) · [read this session via dreamworkhq mirror](https://www.dreamworkhq.com/job/838f6e4f-7feb-4e06-9049-7855b6eb8db2)
+[chevron.wd5.myworkdayjobs.com — R000072335](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Chemical-Engineering-Intern_R000072335) · [read this session via simplify.jobs](https://simplify.jobs/p/3593d63b-e81c-4398-a096-145a855265dd/Chemical-Engineer-Intern) · [dreamworkhq mirror](https://www.dreamworkhq.com/job/838f6e4f-7feb-4e06-9049-7855b6eb8db2)
 
 `LIVE` `VERIFY SEASON`
 
 | | |
 |---|---|
-| **Deadline** | Not stated; posted ~1 month ago |
-| **Citizen** | "Chevron regrets that it is unable to sponsor employment Visas." Individuals from comprehensively sanctioned countries also excluded |
-| **GPA** | Not specified; "strong academic performance in core coursework" |
-| **Level** | Pursuing BS or MS in Chemical Engineering |
-| **Terms** | $29.95/hr. Furnished housing; 5/40, 9/80 or 4/10 schedules; 401(k) match 4–8%. Season labelled "2026-2027" |
-| **Verification** | Chevron's Workday page returned an empty body; facts read from a full-text mirror |
+| **Deadline** | Not stated by Chevron. Simplify shows "7/1/27" (aggregator field; treat with caution) |
+| **Citizen** | Chevron "is unable to sponsor employment Visas" and won't consider time-limited visa status. Citizens/permanent residents of comprehensively sanctioned countries excluded (export control) |
+| **GPA** | Not specified; "strong academic performance" |
+| **Level** | Pursuing a BS or MS in Chemical Engineering |
+| **Terms** | $29.95/hr (range to $8,800/month by degree and year). Furnished housing; 401(k) match 4–8%; flexible schedules |
+| **Verification** | Chevron Workday not loaded; facts read from two full-text mirrors |
 
 ### ExxonMobil — STEM Students Seeking Internship or Co-op Opportunities
-`Spring TX (HQ) + sites in TX, LA, NM, WY, IL, KS, NJ, ND · req 1415276000`
+`Spring TX (HQ) + Baton Rouge, Baytown, Beaumont, Joliet, Mont Belvieu, Paulsboro NJ, Williston ND and others · req 1415276000`
 
-An evergreen intake req, not a dated posting. You apply into a pool and get
-matched to an assignment: process engineering, process control, mechanical
-integrity, product development, modelling and optimization. It is still accepting
-applications. The trap hasn't changed since last month: no cycle year, no
-deadline, no GPA, no work-authorization statement. The only pay figure is
-Illinois's legally required range ($50,000–$135,000 annualized), which may not
-reflect pay elsewhere. Apply, but treat it as joining a database. The other
-ExxonMobil req that still ranks in search, 1314842000, was closed last month.
+An evergreen intake req with no cycle year. You apply into a pool and are matched
+to process engineering, process control, mechanical integrity, product development
+or optimization work. Summer runs about 3 months and fall/spring co-ops about 4.
+Still showing "Apply now." The posting states no deadline, GPA or
+work-authorization rule, and the only pay is the Illinois-mandated disclosure. Apply,
+but treat it as joining a database rather than a requisition with a hiring
+manager.
 
 [jobs.exxonmobil.com — req 1415276000](https://jobs.exxonmobil.com/job/Spring-STEM-Students-Seeking-Internship-or-Co-op-Opportunities-TX-77389/1415276000/)
 
@@ -494,108 +603,84 @@ ExxonMobil req that still ranks in search, 1314842000, was closed last month.
 |---|---|
 | **Deadline** | Not stated |
 | **Citizen** | Not stated on the posting |
-| **GPA** | Not stated; "demonstrate strong academic performance" |
-| **Level** | Pursuing a Bachelor's or Master's in Chemical, Civil, Electrical, Environmental, Industrial, Materials, Mechanical, Metallurgical or Petroleum Engineering, CS, Data Science, Geoscience and related |
-| **Terms** | Summer ~3 months; fall/spring co-ops ~4 months. Illinois disclosure $50,000–$135,000 annualized |
+| **GPA** | Not stated; "strong academic performance" |
+| **Level** | Pursuing a Bachelor's or Master's in Chemical and other listed engineering, science and data disciplines |
+| **Terms** | Summer ~3 months; co-op ~4 months. Illinois disclosure $50,000–$135,000 annualized |
 
-### Kinder Morgan — 2027 BOLT Intern program
-`Houston TX · Pasadena TX · Midland/Snyder TX (CO2) · Sheridan TX · reqs incl. 6174 (Permitting), 6180 (Field Environmental Services)`
+### Closed since the last board — TotalEnergies · Flint Hills Resources (Koch) · CVR Energy · Williams · Kinder Morgan
+`TotalEnergies job 83718 · FHR req 189408 (Pine Bend) and Corpus Christi Summer 2027 ChemE intern · CVR Wynnewood Summer 2027 ChemE intern · Williams R112605 · Kinder Morgan BOLT`
 
-Kinder Morgan's BOLT program has 2027 requisitions live on its portal. This
-session confirmed the titles 2027 BOLT Intern – Permitting and – Field
-Environmental Services in Houston, and search indexes list CO2, Terminals and Gas
-Pipelines Operations variants. The program hub states a 3.0 GPA minimum and
-11–12 summer weeks. The line that matters is **"Applications typically open in
-August and close in October"**, so this window is closing this month. The
-requisition pages loaded only titles. A third-party guide claims student-visa
-holders are eligible, which would be unusual for this sector, but no Kinder
-Morgan page confirmed it.
+The board exists to catch this. Search results still serve all of these.
+**TotalEnergies'** 2027 Engineering Summer Internship returned **404**.
+**Flint Hills' Pine Bend** req 189408, last month's "title says 2027, body says
+2028" trap, also returned **404**. Its **Corpus Christi** Summer 2027 ChemE intern
+(published 23 Oct) and **CVR Energy's Wynnewood** Summer 2027 ChemE intern
+(published 26 Sep) are both marked **"no longer active"** on the job board that
+mirrored them. **Williams'** req had a 1 October deadline. **Kinder Morgan's** hub
+says BOLT applications "typically open in August and close in October," and its
+jobs page loaded with no 2027 reqs. Koch-Glitsch (Wichita, process engineering)
+and Koch Fertilizer (Dodge City) Summer 2027 reqs appear in search and are worth
+checking on koch.avature.net.
 
-[careers.kindermorgan.com — College Internships](https://careers.kindermorgan.com/college-internships) · [req 6174](https://careers.kindermorgan.com/careers-home/jobs/6174?lang=en-us) · [req 6180](https://careers.kindermorgan.com/college-internships/jobs/6180?lang=en-us)
+[TotalEnergies 83718 (404)](https://jobs.totalenergies.com/en_US/careers/JobDetail/2027-Engineering-Summer-Internship/83718) · [FHR Corpus Christi (inactive)](https://www.pharmadiversityjobboard.com/job/summer-2027-chemical-engineering-intern-15450746) · [CVR Wynnewood (inactive)](https://www.pharmadiversityjobboard.com/job/chemical-engineering-intern-summer-2027-15474720) · [Kinder Morgan College Internships](https://careers.kindermorgan.com/college-internships)
 
-`LIVE` `LEADS — DETAILS UNCONFIRMED`
+`LIKELY CLOSED`
 
 | | |
 |---|---|
-| **Deadline** | Not stated per req. Hub: applications "typically open in August and close in October" |
-| **Citizen** | Not confirmed on a Kinder Morgan page this session |
-| **GPA** | 3.0 minimum (program hub) |
-| **Level** | "Currently pursuing their university degree at the time of the internship" |
-| **Terms** | 11–12 weeks, May–August, paid; rates not on the hub |
+| **Deadline** | Closed or past. Kinder Morgan: "typically… close in October" (its own hub) |
+| **Citizen** | Not retrievable |
+| **Level** | Kinder Morgan BOLT: rising juniors and seniors, 3.0 GPA minimum (hub) |
+| **Terms** | Not retrievable |
 
 ---
 
-## Chemicals, materials, food and consumer products
+## Chemicals, materials and consumer products
 
-The first company-set deadlines of the cycle are in this section: Eastman on 17
-October and Dow on 25 October. Neither date could be confirmed on the company's
-own page, so open the portal yourself today. The common disqualifier is
-sponsorship (Eastman, Cargill, Lubrizol), and the structural trap is co-ops that
-require two or three work terms. Cargill's Engineer Intern is the best-verified
-live posting here: it names chemical engineering and has the lowest GPA bar in
-the sector.
+This sector had the most churn of the month. **P&G's three Summer 2027 reqs
+(Engineering, R&D, Manufacturing) all now read "filled"**, Eastman's Longview ChemE
+intern reads "filled", and W. L. Gore's Summer 2027 engineering req is "not
+available." What is still open is plant-floor work: Cargill, Lubrizol's co-op,
+Air Products, Kimberly-Clark and Georgia-Pacific. Georgia-Pacific's listing
+expires 14 November. The common disqualifier is sponsorship, and Kimberly-Clark
+adds a no-relocation, local-candidates rule.
 
-### Eastman — 2027 Chemical Engineering Intern
-`Longview, TX · req 57139`
+### Georgia-Pacific (Koch) — Research and Development Intern, Neenah WI (Summer 2027)
+`Neenah, WI — Neenah Technical Center · Koch posting ID 189154 (from apply link)`
 
-A summer internship at Eastman's Longview, Texas complex. The mirrored posting
-describes the program in general terms (applying coursework, mentoring and
-coaching, housing support and travel reimbursement) without a project list. It is
-the only Eastman 2027 ChemE req found this session, and it carries a hard close
-on **17 October**, 16 days out. The 3.2 GPA is a preference, but it is the
-highest bar of any undergraduate chemicals req on this board. Eastman also
-requires an **ABET-accredited** program, which CMU's ChemE BS is.
+Twelve weeks at GP's tissue and towel technical center: hands-on projects across
+**pilot and commercial production**, with learning sessions and networking. It is
+real scale-up work on paper machines and converting lines. Chemical Engineering
+leads the preferred majors alongside EE, ME and Paper Science. The graduation
+gate is generous (full-time employment on or before Summer 2029), which puts it in
+reach of sophomores. **The listing expires 14 November**, and like every Koch
+posting it requires permanent work authorization.
 
-[read this session via bebee.com mirror](https://bebee.com/us/jobs/2027-chemical-engineering-intern-eastman-chemical-longview-tx--t7xk-806892812) · [eastman.com — College Programs](https://www.eastman.com/en/careers/college-programs)
+[read this session via tallo.com mirror](https://tallo.com/talent/job/wi/neenah/georgia-pacific-research-and-d-491609ab)
 
-`HARD DEADLINE` `LIVE`
-
-| | |
-|---|---|
-| **Deadline** | **17 Oct 2026** (stated on the mirrored posting; not confirmed on eastman.com) |
-| **Citizen** | "Eastman does not provide sponsorship for this position" |
-| **GPA** | 3.2 **preferred** minimum |
-| **Level** | Pursuing BS or MS in chemical engineering from an ABET-accredited institution |
-| **Terms** | Summer 2027. Housing support and travel reimbursement; pay not stated |
-| **Verification** | Read from an aggregator copy; no Eastman-hosted page for req 57139 was retrieved |
-
-### Dow — 2026-2027 U.S. Operations Intern/Co-op (Fall Posting)
-`Majority in Louisiana, Michigan and Texas · indexed under Newark DE, Newtown PA and others · req R2068310`
-
-Dow's operations pipeline for undergraduate and graduate engineers. It covers
-both internships and **alternating-term co-ops** starting in the spring, summer or
-fall term. Dow's operations co-op typically commits you to multiple alternating
-terms, so read it as a multi-semester commitment. Search indexes give a posting
-date of 27 September and an **application deadline of 25 October 2026**. That is
-a real cutoff, but this session could not confirm it: jobs.dow.com failed a TLS
-certificate check, and the Workday URL was found only in search results.
-
-[jobs.dow.com — 2026-2027 U.S. Operations Intern/Co-op](https://jobs.dow.com/hiring/2026-2027-u-s-operations-intern-co-op-fall-posting-newark-de-6aa8ed8400f06d075942bbfc) · [dow.wd1.myworkdayjobs.com — R2068310](https://dow.wd1.myworkdayjobs.com/de-DE/ExternalCareers/job/XMLNAME-2026-2027-US-Operations-Intern-Co-op---Fall-Posting_R2068310)
-
-`NOT VERIFIED` `HARD DEADLINE`
+`LIVE` `HARD DEADLINE`
 
 | | |
 |---|---|
-| **Deadline** | **25 Oct 2026** per search index — **unconfirmed on a Dow page** |
-| **Citizen** | Not retrieved |
-| **GPA** | Not retrieved |
-| **Level** | Undergraduate and graduate engineering students (per search snippet) |
-| **Terms** | Spring, summer or fall start; internship or alternating-term co-op |
-| **Verification** | jobs.dow.com failed TLS verification; Workday not loaded |
+| **Deadline** | Listing expires **14 Nov 2026**; posted ~6 weeks ago |
+| **Citizen** | "Legal authorization to work permanently in the United States." "This role is not eligible for VISA Sponsorship" |
+| **GPA** | Not mentioned |
+| **Level** | Enrolled in a degree or alternative program; eligible for full-time work **on or before Summer 2029**; data problem-solving experience; ChemE/EE/ME/Paper Science preferred |
+| **Terms** | Summer 2027, 12 weeks on-site. Pay not stated |
+| **Verification** | No Koch-hosted page loaded; facts read from a full-text aggregator copy |
 
 ### Cargill — Engineer Intern 2027, Multiple U.S. Locations
 `Chicago IL · Dodge City KS · Schuyler NE · Wyalusing PA · Friona TX · Nebraska City NE · Blair NE · Eddyville IA · Hammond IN · Charlotte NC · Sidney OH · job 330428`
 
-The cleanest live ChemE posting in this sector, and it names **chemical
-engineering** explicitly. That fixes the problem with last month's Cargill
-food-safety req, which didn't. Interns lead production or maintenance teams on
-plant initiatives in production management, environmental engineering,
-process/project engineering, or maintenance and reliability. The work spans meat
-protein, corn milling (Blair, Eddyville) and oilseeds (Sidney), so it is real
-unit-operations work in large plants. The GPA preference is 2.7, the lowest on the
-board, and housing and relocation help is offered. The traps are a graduation
-window of Dec 2027 – May 2029 and a requirement to be open to relocation, since
-you don't choose the plant.
+Still live (posted 3 August, Apply button active), and it names **chemical
+engineering** explicitly. Interns lead production or maintenance teams on plant
+initiatives in production management, environmental engineering,
+process/project engineering, or maintenance and reliability. The plants are meat
+protein, corn milling (Blair, Eddyville) and oilseeds (Sidney), so this is large
+unit-operations work. The 2.7 GPA preference is the lowest on the board, and
+housing help is offered. Wyalusing, PA is the closest site to Pittsburgh. The
+traps are a graduation window of December 2027 – May 2029 and a requirement to
+be willing to relocate, since you don't choose the plant.
 
 [careers.cargill.com — job 330428](https://careers.cargill.com/en/job/-/-/23251/98708508048)
 
@@ -604,48 +689,22 @@ you don't choose the plant.
 | | |
 |---|---|
 | **Deadline** | Not stated; posted 3 Aug 2026 |
-| **Citizen** | "Right to work in the U.S. that is not based solely on possession of a student visa" |
-| **GPA** | 2.7 **preferred** |
-| **Level** | Chemical, Biochemical, Mechanical, Biosystems, Agricultural, Electrical, Industrial or Environmental Engineering, or Packaging; graduation **Dec 2027 – May 2029**; open to relocation |
-| **Terms** | 12 weeks, May/June – August 2027. $25.70–$35.50/hr. "Housing and Relocation Assistance for those that qualify" |
-
-### Air Products — Summer Co-op/Intern, Chemical Engineering (FY 2027)
-`Allentown, PA + 5 additional sites · req JR-2026-21955`
-
-This resolves last month's trap. The FY 2026 req that dominated search results
-then has been superseded by an **FY 2027** requisition. The work covers process,
-project, manufacturing/operations, controls and process systems engineering at an
-industrial gas major, with seminars, tours and business-fundamentals training.
-The 3.0 GPA is a stated minimum, alongside campus leadership and involvement. The
-mirror labels sponsorship "likely" based on the company's historical H-1B
-filings. That is a statistical guess by the aggregator, not Air Products policy,
-and the posting itself is silent.
-
-[airproducts.wd5.myworkdayjobs.com — JR-2026-21955](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/SUMMER-CO-OP-INTERN---Chemical-Engineering--FY-2027-_JR-2026-21955) · [read this session via jobright mirror](https://jobright.ai/jobs/info/6a90931c8ffa38557e6cdaa5)
-
-`LIVE` `ROLLING`
-
-| | |
-|---|---|
-| **Deadline** | Not stated; posted ~1 month ago |
-| **Citizen** | Not stated on the posting (aggregator "H1B likely" is inference, not policy) |
-| **GPA** | 3.0 overall **minimum** |
-| **Level** | Pursuing BS/MS in Chemical Engineering; campus involvement with demonstrated leadership |
-| **Terms** | Summer 2027 co-op or internship; length and pay not stated on the mirror |
-| **Verification** | Air Products' Workday page returned an empty body; facts read from a full-text mirror |
+| **Citizen** | "Right to work in the U.S. that is not based solely on possession of a student visa or a visa sponsored by a third-party employer" |
+| **GPA** | "Overall 2.7 GPA preferred" |
+| **Level** | Bachelor's/Master's completed **Dec 2027 – May 2029**; willing to relocate |
+| **Terms** | 12 weeks, May/June – Aug 2027. $25.70–$35.50/hr. "Housing and Relocation Assistance for those that qualify" |
 
 ### Lubrizol — Chemical Engineering Co-op (Spring/Summer 2027)
-`Wickliffe, Avon Lake, Painesville OH · Deer Park, Bayport TX · job 1425310600`
+`Wickliffe, Avon Lake, Painesville OH · Deer Park / Bayport (Pasadena) TX · job 1425310600`
 
-Posted yesterday. This is a true operations co-op: production support (day-to-day
-unit operation and troubleshooting) and process development (DOE, equipment
-changes, data analysis), with rotations available in safety, environmental, R&D
-and quality. **Two traps.** You must commit to at least two co-op terms, and
-Lubrizol strongly prefers three or more, so this is a multi-semester plan, not a
-summer. And the graduation window is **Dec 2028 – May 2030**, which aims it at
-current first-years and sophomores. Juniors are out. Shift work of up to six
-weeks per term is possible. In its favor: housing and relocation help for anyone
-living 35+ miles away, plus reimbursement of school co-op fees.
+Re-dated 29 October and still live. This is a true operations co-op. Production
+Support covers day-to-day unit operation and troubleshooting. Process Development
+covers DOE, equipment changes and data analysis. Earlier terms rotated through
+safety, environmental, R&D and quality. **Two traps.** You must complete at least
+two co-op terms ("three or more strongly preferred"), so this is a multi-semester
+plan, not a summer. And the graduation window is **December 2028 – May 2030**,
+aimed at current first-years and sophomores. You may also work operator shift
+schedules (swing, second or third) for up to six weeks a term.
 
 [jobs.lubrizol.com — job 1425310600](https://jobs.lubrizol.com/job/Wickliffe-Chemical-Engineering-Co-op-%28SpringSummer-2027%29-OH-44092-2298/1425310600/)
 
@@ -653,135 +712,137 @@ living 35+ miles away, plus reimbursement of school co-op fees.
 
 | | |
 |---|---|
-| **Deadline** | Not stated; posted 30 Sep 2026 |
-| **Citizen** | "Must be authorized to work in the United States without requiring work authorization sponsorship" |
+| **Deadline** | Not stated; dated 29 Oct 2026 |
+| **Citizen** | "Must be authorized to work in the United States without requiring work authorization sponsorship by our company for this position now or in the future" |
 | **GPA** | "Students with GPA > 3.0 will be given priority consideration" (preference) |
-| **Level** | Undergraduate ChemE; graduation **Dec 2028 – May 2030**; reliable transportation; possible shift work up to 6 weeks/term |
-| **Terms** | Spring + Summer 2027 start; **minimum two terms**, 3+ strongly preferred; 40 hrs/week. Housing and relocation assistance for 35+ miles; co-op fee reimbursement |
+| **Level** | Undergraduate ChemE; graduation **Dec 2028 – May 2030**; shift work up to 6 weeks/term |
+| **Terms** | Spring + Summer 2027 start; **two terms minimum**, 40 hrs/wk. Housing and relocation help for permanent residence 35+ miles away |
 
-### Collins Aerospace (RTX) — Chemical/Materials Engineering Co-op (Winter/Spring 2027)
-`Cedar Rapids, IA · req 01871473`
+### Air Products — Summer Co-op/Intern, Chemical Engineering (FY 2027)
+`Allentown, PA + 5 additional sites · req JR-2026-21955`
 
-An aerospace manufacturing co-op: equipment and workflow support, cost and
-productivity studies, quality, safety and producibility reviews, and managing
-modestly sized projects, with local travel to Iowa sites. ChemE is named first. It
-is included because it is a live spring-term option that starts in January, so
-accepting it means taking spring off from CMU. **US citizenship is required**
-because the work involves export-controlled information. That is stricter than
-permanent residency, though no clearance is needed. You also need 60 completed
-credit hours.
+An industrial-gas internship in process, project, manufacturing/operations,
+controls or process systems engineering, with seminars, tours and
+business-fundamentals training. Allentown is the Pennsylvania option on this
+board. The 3.0 GPA is a stated minimum, along with campus leadership. The
+aggregator still shows it live. Its "H1B Sponsor Likely" badge is the
+aggregator's guess from filing history, **not Air Products policy**. The posting
+itself is silent on work authorization.
 
-[globalhr.wd5.myworkdayjobs.com — 01871473](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Chemical-Materials-Engineering-Co-op--Winter-Spring-2027-_01871473) · [read this session via zapply mirror](https://zapply.jobs/jobs/5763232b-2f64-45c6-9b3c-3cf6b82115e8/)
+[airproducts.wd5.myworkdayjobs.com — JR-2026-21955](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/SUMMER-CO-OP-INTERN---Chemical-Engineering--FY-2027-_JR-2026-21955) · [read this session via jobright mirror](https://jobright.ai/jobs/info/6a90931c8ffa38557e6cdaa5)
 
 `LIVE` `ROLLING`
 
 | | |
 |---|---|
-| **Deadline** | Not stated; posted 28 Sep 2026 |
-| **Citizen** | "U.S. citizenship is required, as only U.S. citizens are authorized to access information" for this role. No clearance required |
-| **GPA** | Not specified |
-| **Level** | Chemical Engineering, Materials Science or similar; ≥60 credit hours; enrolled through completion of the co-op |
-| **Terms** | Winter/Spring 2027 term, on-site. Range $37,000–$82,000 (annualized, all experience levels) |
-| **Verification** | RTX's Workday page not loaded; facts read from a full-text mirror |
+| **Deadline** | Not stated |
+| **Citizen** | Not stated on the posting (aggregator "H1B likely" is inference) |
+| **GPA** | 3.0 overall **minimum** |
+| **Level** | Pursuing BS/MS in Chemical Engineering; campus involvement with demonstrated leadership |
+| **Terms** | Summer 2027 co-op or internship, paid; amount not stated |
+| **Verification** | Workday not loaded; facts read from a full-text mirror |
 
-### BASF — "Explore Together" International Internship Program · INTERNATIONAL
-`Placements in US, Mexico, Chile, Singapore, Hong Kong, China, Austria, Belgium, UK, Netherlands · networking at Ludwigshafen`
+### Kimberly-Clark — 2027 Engineering Co-ops & Internships
+`Summer internship: Neenah WI, Corinth MS · Co-ops: 14 plants incl. Chester PA, Beech Island SC, Mobile AL, Paris TX, Ogden UT`
 
-**International program, clearly labelled.** It offers about 30–40 compensated
-placements a year, lasting 3–6 months, and BASF arranges and pays for your flights
-and visas. The bar is high: an advanced Bachelor's or Master's student with prior
-work experience in the field, strong English, **prior international experience**,
-and commitment outside university. Apply at least three months ahead through the
-portal. Two telephone interviews follow if your profile matches. The page
-describing it is on BASF's UK site, and it does not say whether US-enrolled
-students are eligible. Ask before investing in a motivation letter.
+One requisition covers both formats. **Co-ops** run 6 or 9 months (January–August
+or May–December 2027) and are the recommended path. The **summer internship** is
+3 months at Neenah or Corinth only. ChemE fits the Process track (line
+efficiency and waste reduction on high-speed converting lines) and the Material
+track (testing, modeling, fiber development). **The trap is relocation**:
+"Kimberly-Clark will not offer relocation support… limited to local candidates."
+Chester, PA (near Philadelphia) is the closest co-op plant to a Pennsylvania
+student. Pre-screening may include a drug screen, background check and DMV check.
 
-[basf.com — Explore Together](https://www.basf.com/gb/en/careers/students/explore-together)
+[read this session via jobs.solidprofessor.com mirror](https://jobs.solidprofessor.com/job/363580/2027-engineering-co-ops-internships/) · [careers.kimberly-clark.com — College Students](https://www.careers.kimberly-clark.com/en/our-careers/college-students)
 
-`ROLLING` `VERIFY SEASON`
+`LIVE` `SPANS TWO TERMS`
 
 | | |
 |---|---|
-| **Deadline** | Rolling; "apply min. three months in advance" |
-| **Citizen** | No nationality restriction stated; BASF arranges and pays for visas. Eligibility of US-enrolled students not stated |
-| **GPA** | Not stated |
-| **Level** | Advanced Bachelor's or Master's in natural sciences, engineering or business; prior field work experience and prior international experience expected |
-| **Terms** | 3–6 months, compensated; flights and visas paid by BASF |
+| **Deadline** | Not stated; posted 8 Sep 2026 |
+| **Citizen** | Must be eligible to work in the US without sponsorship now or in the future |
+| **GPA** | 3.0 / 4.0 **preferred** |
+| **Level** | ≥1 year of college completed. Drug screen, background and DMV check possible. **No relocation; local candidates** |
+| **Terms** | Co-op 6 or 9 months (Jan–Aug or May–Dec 2027); internship 3 months (May–Aug 2027). $24.50/hr, overtime-eligible |
+| **Verification** | No Kimberly-Clark-hosted req loaded; facts read from a full-text aggregator copy |
 
-### Closed since the last board — Procter & Gamble · The Hershey Company · Black & Veatch
-`P&G req R000157841 (Engineering Internship, Summer 2027) · Hershey req 1382261300 (ChemE Co-Op) · B&V req 1252151101 (Civil Engineer Intern – Water)`
+### Closed or filled since the last board — Procter & Gamble · Eastman · W. L. Gore · AbbVie · bp
+`P&G R000157846 (R&D Sci/Eng Intern), R000157840 (Manufacturing Intern) · Eastman 1420024900 · Gore 2164 · AbbVie 2027 Operations Development Intern · bp Whiting Chemical & Process Internship`
 
-The board exists to catch this. Search engines and aggregators still serve all
-three, and all three are dead. **P&G's Engineering Internship, Summer 2027** (the
-$85,000–$122,200 product-supply req that aggregators still list for Cincinnati)
-loaded on pgcareers.com this session as "the job you are trying to apply for has
-been filled." **Hershey's ChemE co-op**, a highlight of last month's board, now
-says "This job posting is no longer active." That was expected, since its first
-term was Fall 2026. **Black & Veatch's water intern** also shows filled. P&G
-historically runs several engineering and R&D internship reqs. A Manufacturing
-Internship, Summer 2027 (R000157840) is indexed on Workday but was not loaded.
-Check P&G's portal for other open reqs rather than reapplying to this one.
+All five still rank in search, and all five were dead on load this session.
+**P&G's R&D Scientist/Engineer Intern, Summer 2027** (freshmen to juniors,
+$29–$50/hr per an aggregator copy) and its **Manufacturing Internship, Summer
+2027** (St. Bernard, OH) both read "the job you are trying to apply for has been
+filled." Last month's P&G Engineering req did too. **Eastman's 2027 Chemical
+Engineering Intern** (Longview, TX, 17 October deadline) now reads "this position
+has been filled." **Gore's Engineering Internship, Summer 2027** shows "not
+available at this time." **AbbVie's 2027 Operations Development Program Intern**
+(ChemE named, $21–$37.80/hr) shows "Applications Closed" on Runway. **bp's
+Whiting** chemical and process internship ($7,438–$7,875/month) is marked "no
+longer active."
 
-[pgcareers.com — R000157841 (filled)](https://www.pgcareers.com/us/en/job/R000157841/Engineering-Internship-Summer-2027) · [Hershey 1382261300 (inactive)](https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Chemical-Engineering-Co-Op-PA-17033/1382261300/) · [B&V 1252151101 (filled)](https://careers.bv.com/job/Bloomington-Civil-Engineer-Intern-Water-MN/1252151101/)
+[P&G R000157846 (filled)](https://www.pgcareers.com/us/en/job/R000157846) · [P&G R000157840 (filled)](https://www.pgcareers.com/us/en/job/R000157840) · [Eastman 1420024900 (filled)](https://jobs.eastman.com/job/Longview-2027-Chemical-Engineering-Intern-TX-75602/1420024900/) · [Gore (unavailable)](https://wlgore.jobs.hr.cloud.sap/job/Engineering-Internship-Summer-2027/2164-en_US/)
 
 `LIKELY CLOSED`
 
 | | |
 |---|---|
-| **Deadline** | Closed. Pages display "filled" or "no longer active" |
-| **Citizen** | Not retrievable |
-| **Level** | Not retrievable |
-| **Terms** | Not retrievable. P&G Manufacturing Internship R000157840 is an unverified alternative |
+| **Deadline** | Closed: pages read "filled", "not available", "Applications Closed" or "no longer active" |
+| **Citizen** | P&G R&D (aggregator copy): "Immigration Sponsorship is not available." Others not retrievable |
+| **Level** | Not retrievable from closed pages |
+| **Terms** | Not applicable |
 
-### Chemicals, gases and food — 2027 programs not yet open or unreadable
-`Linde Engineering · Kraft Heinz · General Mills · PepsiCo · BASF (US)`
+### Additional 2027-dated postings — Covestro · General Mills · Kraft Heinz · Koch-Glitsch · Linde · Dow
+`Pittsburgh PA / Baytown TX / New Martinsville WV (Covestro) · plant network (General Mills) · Fremont OH, Garland TX (Kraft Heinz) · Wichita KS (Koch-Glitsch)`
 
-Each of these is a real channel with no characterizable posting this session.
-**Linde Engineering's** early-careers page says "Currently there are no open
-internship positions available." It also says applications open and interviews
-begin in September, with offers out by March, so expect postings soon. (Linde's
-R&D Summer 2027 req for MS/PhD students appears in the graduate section.) **Kraft
-Heinz** has a "2027 US Manufacturing Internship Program" page (Fremont, OH), but it
-rendered only configuration code. A search snippet gives dates of 7 June – 13
-August 2027 for this 10-week plant leadership program. **PepsiCo** (Plano HQ
-Engineering, R&D) and **General Mills** have 2027 roles in aggregator indexes only.
-BASF's US internships are expected in October–December by third-party guides,
-which is an estimate, not a BASF statement.
+Each is a real channel, and none was characterized on a primary page this
+session. **Covestro**, headquartered in Pittsburgh, has a Process Engineering
+Intern for May–August 2027 that requires a ChemE major with sophomore year
+completed (Handshake preview only). It also has a Pittsburgh Digital R&D intern
+for rising juniors. **General Mills'** Manufacturing & Engineering Associate
+internship is 10 weeks at a plant, $28.85/hr per aggregators, and feeds its MEA
+development program. **Kraft Heinz's** 2027 US Manufacturing Internship (Fremont,
+OH) runs 7 June – 13 August 2027 at $28/hr per a search snippet. **Koch-Glitsch**
+has a Summer 2027 Process Engineer Intern in mass transfer and separations,
+requiring full-time eligibility by Summer 2028 (snippet). **Linde's** page says
+"Currently there are no open internship positions." **Dow's** 25 October
+co-op date has passed.
 
-[lindecareers.com — Early Careers](https://us.lindecareers.com/early-careers/lea) · [jobs.kraftheinz.com — 2027 US Manufacturing Internship](https://jobs.kraftheinz.com/careers/job/1970324837476726)
+[lindecareers.com — Early Careers](https://us.lindecareers.com/early-careers/lea) · [extern.com — retail/CPG 2027 guide (third-party)](https://www.extern.com/post/retail-cpg-internships-summer-2027-guide)
 
-`NOT YET POSTED` `LEADS — DETAILS UNCONFIRMED`
+`LEADS — DETAILS UNCONFIRMED`
 
 | | |
 |---|---|
-| **Deadline** | None open. Linde: offers by March (its own page). Others: `~Oct–Dec 2026 (third-party guide est.)` |
+| **Deadline** | None retrieved. Linde: offers rolling, final offer deadline in March (its own page) |
 | **Citizen** | Not verified for any of these |
-| **Level** | Linde: BS/MS/PhD, with a focus on mechanical, electrical, civil and chemical engineering |
-| **Terms** | Linde: 3 months, May–August. Kraft Heinz: 7 Jun – 13 Aug 2027 per search snippet, unverified |
+| **Level** | Covestro: ChemE, sophomore year completed (snippet). Koch-Glitsch: BS+ in ChemE/refining eng., FT-eligible by Summer 2028 (snippet) |
+| **Terms** | General Mills $28.85/hr; Kraft Heinz $28/hr, 7 Jun – 13 Aug 2027 — **aggregator/snippet figures, unverified** |
 
 ---
 
 ## Semiconductors and electronic materials
 
-Fabs hire ChemEs under titles that never say "chemical." Search for process,
-integration, yield, thin films, etch, CMP. TSMC Arizona and GlobalFoundries are
-the two live undergraduate reqs that name chemical engineering, and neither has a
-deadline. The common disqualifier here isn't visas, it's mislabelling: onsemi's
-posting asks for EE or "semiconductor-related" majors, Intel's most-indexed
-Bachelor's req is labelled 2026, and TI's only 2027 reqs are for associate-degree
-technicians. If you have one hour, spend it on the GlobalFoundries req for your
-class year.
+Fabs hire ChemEs under titles that never say "chemical", so search process,
+integration, yield, thin films, etch and CMP. TSMC Arizona, GlobalFoundries Malta
+and Samsung Austin/Taylor each name chemical engineering and are open with no
+deadline. The common disqualifier here is export control rather than visas:
+TSMC and Samsung both warn that roles touch export-controlled data, and GF
+states no H-1B sponsorship. The trap is degree lists. Applied Materials' only
+Bachelor's 2027 req in Austin names ME, EE and Manufacturing, not ChemE.
 
 ### TSMC Arizona — [Summer 2027] TSMC AZ Internship Opportunities, Engineering Roles
 `Phoenix, AZ · req 1361003166`
 
-One requisition covering twelve role families, with chemical engineering named
-in the degree list. The posting was refreshed on 28 September. For ChemE, the
-relevant tracks are Process Engineer (CMP, CVD, PVD, epi, diffusion, wet, etch),
-Process Integration and Yield Excellence. The three fixed 10-week windows fit
-both semester and quarter calendars, and relocation help is available. The page
-gives no GPA, no pay and no deadline. Non-US persons may need export licences,
-which in practice slows a hire.
+One requisition covers twelve role families. It was **refreshed on 27 October**,
+so it is actively recruiting. For ChemE the relevant tracks are Process Engineer
+(PE), Process Integration (PID) and Yield Excellence (YED), and Chemical
+Engineering is named in the degree list. The three fixed 10-week windows fit
+semester and quarter calendars, so pick the semester window that clears CMU's
+May finals. The page gives no GPA, pay or deadline. The export-control line
+("All positions may require access to export controlled technical data") can mean
+a licence wait for non-US persons.
 
 [ro.careers.tsmc.com — req 1361003166](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/)
 
@@ -789,114 +850,113 @@ which in practice slows a hire.
 
 | | |
 |---|---|
-| **Deadline** | Not specified |
-| **Citizen** | "Applicants must be legally eligible to work in the United States"; non-US persons may require export licences |
-| **GPA** | Not specified |
-| **Level** | Enrolled BS/MS/PhD in EE, Materials Science, **Chemical Engineering**, Chemistry, ME, Physics, IE, Civil, Construction or related |
-| **Terms** | 10 weeks, 40 hrs/week, on-site. Semester: 24 May – 6 Aug or 7 Jun – 20 Aug 2027; quarter: 14 Jun – 27 Aug 2027. Relocation assistance. Pay not stated |
+| **Deadline** | Not stated; reposted 27 Oct 2026 |
+| **Citizen** | "Legally eligible to work in the United States." Export-controlled data; non-US persons may need an export licence |
+| **GPA** | Not stated |
+| **Level** | Enrolled BS/MS/PhD in EE, MSE, **Chemical Engineering**, Chemistry, ME, Physics, IE, Civil, Construction or related |
+| **Terms** | 10 weeks, 40 hrs/wk, on-site Phoenix. 24 May – 6 Aug or 7 Jun – 20 Aug 2027 (semester); 14 Jun – 27 Aug 2027 (quarter). Pay not stated |
 
-### GlobalFoundries — Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027)
-`Essex Junction, VT — Fab 9 · req JR-2604658 (Junior) · JR-2604665 (Sophomore variant)`
+### GlobalFoundries — Advanced Manufacturing Engineer Intern, Process & Equipment (Summer 2027)
+`Malta, NY — Fab 8 · Essex Junction VT variants JR-2604658 (Junior) / JR-2604665 (Sophomore) unconfirmed`
 
-A fab-floor process role on the Fab 9 line. You own an equipment quality-control
-plan, drive throughput, cost and yield improvements, qualify equipment
-installations and design process experiments, and the summer ends in a capstone
-poster session. GlobalFoundries splits this role **by class year**: the Junior
-req requires junior standing *at the time of application*, and a separate
-Sophomore req (JR-2604665) exists. Applying to the wrong one is a likely way to be
-auto-screened out. ChemE is named first. The 3.0 GPA is a hard minimum, and prior
-internship or co-op experience is preferred. The posting is silent on work
-authorization.
+A fab-floor process role at GF's Malta headquarters fab. You work with an
+assigned engineer to reduce process-recovery variability, detect problems earlier
+(limit of detection), cut chemical and qualification-wafer costs, and standardize
+processes across tools, then lead an improvement project. **Chemical Engineering
+is named first.** It requires at least sophomore standing at application. Simplify
+marked it live in the last 24 hours. Last month's Essex Junction class-year reqs
+could not be re-confirmed: Workday returned an empty body and the mirror that
+showed them no longer does. A third-party guide notes the Malta listings dropped
+from seven reqs to two in about a week.
 
-[globalfoundries.wd1.myworkdayjobs.com — JR-2604658](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604658) · [Sophomore variant JR-2604665](https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/advanced-manufacturing-process-engineering-intern--sophomore--summer-2027-_jr-2604665) · [read this session via zapply mirror](https://zapply.jobs/jobs/d08bc2eb-b042-49c8-a437-1e86870cfab6/)
-
-`LIVE` `ROLLING`
-
-| | |
-|---|---|
-| **Deadline** | Not stated; posted 27 Aug 2026 |
-| **Citizen** | Not stated on the posting |
-| **GPA** | 3.0 overall **minimum** |
-| **Level** | **Junior at time of application** (separate Sophomore req); BS in Chemical Engineering, Materials Science Engineering or related; ≥40 hrs/week availability. SPC/DOE knowledge preferred |
-| **Terms** | Summer 2027, on-site Essex Junction. $20.00–$40.00/hr |
-| **Verification** | GF's Workday page returned an empty body; facts read from a full-text mirror |
-
-### onsemi — Summer 2027 Thin Films, Implant & Diffusion Process Engineering Intern
-`Hopewell Junction / East Fishkill, NY · req 2506637`
-
-Front-end process work in thin films, implant and diffusion: process
-improvements, documentation, real manufacturing problems, statistical analysis
-and lab characterization. The tasks are a natural ChemE fit, but the posting asks
-for "electrical engineering or semiconductor-related field" majors and
-**coursework in semiconductor and wafer processing**. A ChemE applicant should
-name a specific course (or a CMU materials or microfabrication elective) in the
-first lines of the résumé so a keyword screen doesn't drop it. The pay band is
-disclosed and reasonable.
-
-[hctz.fa.us2.oraclecloud.com — 2506637](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506637) · [read this session via dreamworkhq mirror](https://www.dreamworkhq.com/job/1c1e65c6-e9e1-4b0b-a25a-8f0fb92e7f6c)
+[read this session via simplify.jobs](https://simplify.jobs/p/810bf64d-ff04-4789-aa70-6f7d7b37c06c/Advanced-Manufacturing-Engineer-Intern) · [Essex Junction JR-2604658 (Workday, not rendered)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604658)
 
 `LIVE` `ROLLING`
 
 | | |
 |---|---|
-| **Deadline** | Not stated; posted ~2 weeks ago |
-| **Citizen** | Not stated on the mirrored posting |
-| **GPA** | Not specified |
-| **Level** | Enrolled BA/BS, MS or PhD in EE or a "semiconductor-related field"; semiconductor/wafer-processing coursework expected |
-| **Terms** | Summer 2027. $26.00–$44.00/hr |
-| **Verification** | Oracle page not loaded; facts read from a full-text mirror |
+| **Deadline** | Not stated |
+| **Citizen** | "Company Does Not Provide H1B Sponsorship" (aggregator field) |
+| **GPA** | 3.0 overall **minimum**, good standing |
+| **Level** | Pursuing a Bachelor's in ChemE, EE, ME, MSE or related; **at least a sophomore at application**; ≥40 hrs/wk; fluent English |
+| **Terms** | Summer 2027, in person at Malta. $20.00–$40.00/hr |
+| **Verification** | No GF-hosted page rendered; facts read from a full-text aggregator copy |
 
-### Additional 2027 semiconductor leads — Intel · Samsung Austin · Micron · Texas Instruments
-`Hillsboro OR / AZ / NM · Austin TX · Boise ID · Dallas TX`
+### Samsung Austin Semiconductor — 2027 Summer Internship
+`Austin, TX · Taylor, TX`
 
-Each is worth tracking, and none could be read this session. **Intel**: the
-Bachelor's req that ranks highest in search, "Manufacturing and Process
-Development – Intern, Bachelors" (JR0276779), names Chemical Engineering, has a
-3.0 GPA preference and a ~$76,400 annualized base, but **aggregator copies say it
-starts Spring/Summer 2026**. Treat it as last cycle's req until Intel posts a 2027
-version. **Samsung** has a "2027 Summer Internship" req (R119158) on Workday that
-returned an empty body. **Micron's** undergraduate Summer 2027 process-engineer
-reqs were not found. The only Summer 2027 Micron undergraduate role surfaced was a
-*technician* intern. **Texas Instruments'** two 2027 postings are Manufacturing
-Technician internships for associate-degree and certificate students, so not a
-BS ChemE route.
+An 11-week on-site project internship alongside Samsung engineers on product,
+process and technology work. Per a Korea Herald report, it is the first summer
+program to include the new **Taylor** fab. Chemical engineering is named in a
+long list of majors that also includes Materials Science, Environmental Health &
+Safety and Industrial Hygiene, which suits ChemEs interested in fab EHS or
+chemical-delivery systems. The posting mentions a sign-on bonus but no figures.
+Like TSMC, it flags that the role "may require access to information subject to
+U.S. export control laws."
 
-[Intel JR0276779](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Bachelors_JR0276779/apply) · [Samsung R119158](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/XMLNAME-2027-Summer-Internship_R119158) · [TI 2027 Manufacturing Technician Intern](https://career.cornell.edu/jobs/texas-instruments-inc-2027-manufacturing-technician-intern-dallas-richardson/)
+[read this session via factoryfix mirror](https://jobs.factoryfix.com/jobs/2027-summer-internship--taylor--tx--1759841951--V2) · [Samsung R119158 (Workday, not rendered last month)](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/XMLNAME-2027-Summer-Internship_R119158)
+
+`LIVE` `ROLLING`
+
+| | |
+|---|---|
+| **Deadline** | Not stated |
+| **Citizen** | Export-controlled information; must be authorized for access or eligible for government authorization. Sponsorship policy not stated |
+| **GPA** | 3.0 or better |
+| **Level** | Students in EE, ME, **Chemical**, CS/CE, Physics, EHS, Safety, IE, Math, Statistics, MSE, Industrial Hygiene |
+| **Terms** | 11 weeks, full-time on-site (Austin or Taylor). "Competitive pay plus a sign-on bonus"; no figures |
+| **Verification** | Samsung Workday not loaded; facts read from a full-text aggregator copy. Req R119158 linkage is from last month's search, not confirmed |
+
+### Additional 2027 semiconductor leads and traps — Applied Materials · onsemi · Intel · Wolfspeed · Micron (Boise)
+`Austin TX (Applied R2626242) · East Fishkill NY (onsemi 2506637) · Hillsboro OR (Intel) · Boise ID (Micron JR107203)`
+
+**Applied Materials' 2027 Manufacturing Engineer Summer Internship (Bachelors,
+Austin), R2626242,** loaded this session on Applied's own site. It is a
+build-and-test-line role (time studies, operation method sequences,
+root-cause analysis) with a 3.0 GPA and "$28–32" (unit not stated). **ChemE is
+not named**: only Mechanical, Electrical or Manufacturing "or a related field."
+**onsemi's** thin films/implant/diffusion intern (2506637) mirror now returns 410,
+so it is probably closed. **Intel's** Module Engineering PhD Intern Summer 2027
+appears only on a page that returned 403, and last month's Intel PhD req had a
+22 October date. **Wolfspeed** process-integration, etch and wet/cleans summer
+roles appear in search with no year confirmed. **Micron's** Boise PhD thin-films
+req JR107203 no longer shows on the mirror.
+
+[jobs.appliedmaterials.com — R2626242](https://jobs.appliedmaterials.com/job/austin/2027-manufacturing-engineer-summer-internship-bachelors-austin-tx/95/100333621984)
 
 `LEADS — DETAILS UNCONFIRMED` `VERIFY SEASON`
 
 | | |
 |---|---|
-| **Deadline** | None retrieved. Intel/Micron BS waves `~Oct 2026 – Jan 2027 (third-party guide est.)` |
-| **Citizen** | Not retrieved |
-| **GPA** | Intel JR0276779: 3.0 preferred (aggregator copy) |
-| **Level** | TI reqs are associate/certificate only; Micron surfaced role is technician-level |
-| **Terms** | Intel JR0276779 labelled Spring/Summer **2026** in aggregator copies — likely stale |
+| **Deadline** | None retrieved. Applied R2626242 posted 8 Sep 2026 |
+| **Citizen** | Applied: no export or sponsorship language on the page. Others not retrieved |
+| **GPA** | Applied: 3.0 or above |
+| **Level** | Applied: Bachelor's in ME, EE or Manufacturing "or a related field" — **ChemE not named** |
+| **Terms** | Applied "$28–32" (unit unstated). Others not retrieved |
 
 ---
 
 ## Pharma, biotech and consulting
 
-Live pharma reqs are scarcer than the volume of "Summer 2027 biotech" guides
-suggests, and they close fast. Merck's flagship ChemE R&D internship and
-Genentech's Spring 2027 PTD internships both went dead this session, within weeks
-of posting. Amgen's process development internship is the one primary-verified
-undergraduate req open now. Its real filter isn't GPA but a commitment to accept
-full-time work by July 2028, which effectively limits it to current juniors.
+Live undergraduate pharma reqs are scarce and short-lived. AbbVie's Operations
+Development intern is closed, and Merck's flagship ChemE R&D req closed last
+month. Amgen's process development internship is the one primary-verified
+undergraduate req still open. Its filter is a commitment to accept full-time work
+by July 2028, which effectively means current juniors. Regeneron's purification
+co-op closes today, and the PhD-level pharma reqs (BMS, Lilly, Amgen grad) are in
+the graduate section.
 
 ### Amgen — Undergrad Intern, Operations – Process Development (Summer 2027)
 `Thousand Oaks, CA · req R-254516`
 
-A lab-based process development project in one of six groups: Drug Substance
-Technologies, Attribute Sciences, Manufacturing and Clinical Supply, Digital
-Strategy & Capabilities, Drug Product Technologies, or Combination Product
-Operations. Drug Substance is the purification and scale-up group most suited to
-ChemE. Amgen explicitly has no deadline: it takes applications "until we receive a
-sufficient number," so early matters more than polished. **The trap is in the
-eligibility list.** You must stay enrolled after the internship *and* be able to
-start full-time work by July 2028. That fits a current junior (class of 2028) and
-excludes most sophomores. The work-authorization line also says sponsorship for a
-future full-time role "is not guaranteed."
+A lab-based process development project in Drug Substance Technologies, Attribute
+Sciences, Manufacturing and Clinical Supply, Digital, Drug Product Technologies or
+Combination Products. Drug Substance (purification and scale-up, e.g. single-pass
+TFF UF/DF for high-concentration product) is the ChemE fit. Amgen has no deadline
+and takes applications "until we receive a sufficient number", so early beats
+polished. **The trap is in the eligibility list:** you must be "available to
+accept and commit to future full-time employment by July 2028, if offered." That
+fits a current junior (class of 2028) and excludes most sophomores.
 
 [careers.amgen.com — R-254516](https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-process-development-summer-2027/87/99867785168)
 
@@ -904,217 +964,83 @@ future full-time role "is not guaranteed."
 
 | | |
 |---|---|
-| **Deadline** | "Amgen does not have an application deadline for this position"; posted 31 Aug 2026 |
-| **Citizen** | "Candidates must be authorized to work in the U.S. for the duration of this program. Sponsorship for future FTE roles is not guaranteed." |
-| **GPA** | 3.0 minimum |
-| **Level** | Full-time Bachelor's student; ≥1 year completed before start; enrolled after the internship; **available for full-time employment by July 2028**; 18+. Biology, Chemistry, BME, **Chemical Engineering** preferred |
-| **Terms** | Summer 2027, on-site. $28.87/hr. Housing not mentioned |
+| **Deadline** | "Amgen does not have an application deadline for this position" |
+| **Citizen** | "Candidates must be authorized to work in the U.S. for the duration of this program." Future full-time sponsorship not guaranteed |
+| **GPA** | "3.0 minimum GPA or equivalent" |
+| **Level** | ≥1 year of study completed before start; located in the US for the internship; full-time schedule; **available for full-time employment by July 2028** |
+| **Terms** | Summer 2027, on-site. $28.87/hr |
 
-### Moderna · Eli Lilly — process development and manufacturing internships, 2027
-`Norwood, MA (Moderna req R19683) · Indianapolis area (Lilly)`
+### Regeneron — 2027 Co-op, Downstream Purification, Analytics & Bioconjugate Process Development
+`Tarrytown, NY`
 
-Two strong ChemE channels that could not be read directly. **Moderna** lists an
-Intern, CMC Development (Summer 2027) at Norwood, plus a Co-Op, CMC Development
-(Winter 2027). Search snippets describe scaled-down models and high-throughput
-setups for unit operations, mRNA and lipid-nanoparticle characterization, a 7 June
-2027 start, BS/MS students in ChemE and related fields, and $20–$60/hr. Moderna's
-Workday page did not render, and the BioSpace copy returned 404. **Eli Lilly's**
-student Engineering & Manufacturing Sciences page confirms 12-week internships for
-BS/MS ChemE students but lists no 2027 engineering req and sends students to a
-RippleMatch talent community. A Lilly Research Laboratories TDA 2027 Summer
-Undergraduate Internship (R-110519) exists on Workday but returned an empty body.
+A biologics downstream co-op: chromatography, filtration and resin development
+for antibody purification. You also develop LC methods for process impurities and
+work on antibody-drug-conjugate chemistry, with small-scale experiments and
+historical-data trending. **Chemical/Biochemical Engineering is listed first.** The
+three co-op windows (January–August, May/June–December, or August–December) all
+cut into a CMU semester. **The aggregator copy gives a closing date of 1 November
+2026, today.** Regeneron has sibling 2027 co-ops (Process Management/Operations,
+Lab Automation) that may still be open on its own portal.
 
-[Moderna R19683](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Intern--CMC-Development--Summer-2027-_R19683) · [interninsider.me — Moderna listing](https://interninsider.me/companies/moderna) · [careers.lilly.com — Engineering & Manufacturing Sciences](https://careers.lilly.com/us/en/student-manufacturing-science-/-engineering)
+[read this session via xtalks.com mirror](https://xtalks.com/job/2027-co-op-downstream-purification-analytics-bioconjugate-process-development/)
 
-`NOT VERIFIED` `LEADS — DETAILS UNCONFIRMED`
+`HARD DEADLINE` `SPANS TWO TERMS`
 
 | | |
 |---|---|
-| **Deadline** | Not stated. Lilly: `~mid-Oct priority / late-Nov general (third-party guide est. from prior cycles)` |
-| **Citizen** | Not retrieved for either |
-| **GPA** | Not retrieved |
-| **Level** | Moderna: BS/MS in ChemE and related (search snippet). Lilly: BS/MS Engineering incl. Chemical (Lilly page) |
-| **Terms** | Moderna: summer start 7 Jun 2027, $20–$60/hr (snippet, unverified). Lilly: 12 weeks, paid |
+| **Deadline** | **1 Nov 2026** per aggregator copy (posted 2 Oct 2026); not confirmed on Regeneron's site |
+| **Citizen** | Not stated beyond right-to-work background checks |
+| **GPA** | Cumulative 3.0 **preferred** |
+| **Level** | Enrolled in (or accepted to) an undergraduate or graduate program, returning to school after the co-op; ChemE/BiochemE, Biochemistry, Biology |
+| **Terms** | Full-time on-site, 40 hrs/wk: Jan–Aug, May/Jun–Dec, or Aug–Dec 2027. $17.90–$50.90/hr by year and degree |
+| **Verification** | No Regeneron-hosted page loaded; facts read from a full-text aggregator copy |
 
-### Closed since posting — Merck · Genentech
-`Merck req R413344 (Rahway, NJ) · Genentech req 202609-122484 (South San Francisco, CA)`
+### Additional 2027 pharma postings — Merck · Moderna · Sanofi · Johnson & Johnson · Genentech
+`Rahway NJ (Merck) · Norwood MA (Moderna) · Framingham MA, Swiftwater PA (Sanofi) · J&J MSAT co-op · South San Francisco (Genentech)`
 
-Two of the most-searched pharma ChemE internships are already gone. **Merck's 2027
-Future Talent Program – Chemical Engineering Research & Development Intern**
-(small-molecule API process development, process safety, 11–12 weeks) loaded on
-jobs.merck.com this session as "no longer available." Aggregators still list it.
-**Genentech's 2027 Spring Intern – Pharmaceutical Technical Development** returned
-**HTTP 410 Gone** on careers.gene.com, and the aggregator copy of the Engineering &
-Manufacturing variant returned 404. That fits a six-month spring internship that
-starts in January. Merck posts several Future Talent Program reqs (Discovery
-Chemistry & Process Research and others are indexed), so check the portal for
-siblings that are still open.
+All of these channels are real, and none could be read this session. **Merck's**
+2027 Future Talent Program MSAT Intern returned **410 Gone** on the aggregator.
+**Moderna's** Intern, CMC Development (Summer 2027, Norwood) still shows only in
+search snippets, one of which carries a 2026 end date, so treat it as a date
+error. **Sanofi** lists a 6-month Framingham co-op starting June 2027 for ChemE
+majors and a Swiftwater, PA summer internship, which returned 410. **J&J's** MSAT
+Engineer Co-op Spring 2027 returned **404**. **Genentech** has no live 2027
+undergraduate req found. A third-party guide expects postings from November
+through March, so check weekly.
 
-[jobs.merck.com — R413344 (expired)](https://jobs.merck.com/us/en/job/R413344/2027-Future-Talent-Program-Chemical-Engineering-Research-Development-Intern) · [careers.gene.com — 202609-122484 (410 Gone)](https://careers.gene.com/us/en/job/202609-122484/2027-Spring-Intern-Pharmaceutical-Technical-Development-Laboratory-Wet-Lab-or-Dry-Lab)
+[extern.com — biotech/pharma 2027 guide (third-party)](https://www.extern.com/post/biotech-pharma-internships-summer-2027-guide) · [J&J R-097604 (404)](https://www.careers.jnj.com/en/jobs/r-097604/msat-engineer-co-op-spring-2027/)
 
-`LIKELY CLOSED`
-
-| | |
-|---|---|
-| **Deadline** | Closed |
-| **Citizen** | Not retrievable |
-| **Level** | Not retrievable |
-| **Terms** | Not retrievable |
-
----
-
-## Graduate and PhD routes
-
-PhD industrial internships are live now and pay well. ExxonMobil's PhD intake req
-is open, Micron posted a PhD thin-films role on 25 September, and Linde and Amgen
-have MS/PhD roles. The common trap is degree naming: Intel's PhD process-yield
-role, the most prominent in this sector, does not list chemical engineering and
-does not sponsor. For a CMU PhD student, SCGSR (4 November, in the federal section)
-and the Micron req are worth the next hour.
-
-### Amgen — Grad Intern, Operations – Process Development (Summer 2027)
-`Thousand Oaks, CA · req R-254519`
-
-The graduate counterpart to the undergraduate req, in the same process
-development groups (Drug Substance and Drug Product Technologies, Attribute
-Sciences, Manufacturing and Clinical Supply, Combination Products). It is open to
-Master's, PhD, PharmD and MBA students who will have **completed the first year**
-of their graduate program before the internship starts. A first-year PhD student
-this fall qualifies for summer 2027. No GPA is stated, and Amgen again says there
-is no deadline.
-
-[careers.amgen.com — R-254519](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184)
-
-`LIVE` `ROLLING`
+`LEADS — DETAILS UNCONFIRMED` `NOT VERIFIED`
 
 | | |
 |---|---|
-| **Deadline** | No deadline; accepting until filled. Posted 31 Aug 2026 |
-| **Citizen** | "Candidates must be authorized to work in the U.S. for the duration of this program. Sponsorship for future FTE roles is not guaranteed." |
-| **GPA** | Not stated |
-| **Level** | Bachelor's completed; enrolled in a Master's, PhD, PharmD or MBA program with the first year completed before the start; 18+ |
-| **Terms** | Summer 2027, on-site. $35.34–$41.20/hr |
-
-### ExxonMobil — PhD Students Seeking Internship Opportunities
-`Spring TX + Baton Rouge, Baytown, Beaumont, Joliet, Mont Belvieu · req 1415301000`
-
-The live PhD intake req, accepting applications this session. It replaces
-1314973500, which still ranks in search but displays "no longer taking new
-applicants." As with the undergraduate req, you apply into a pool. Assignments can
-be ~3-month summer internships or 4–5-month fall/spring co-ops, and relocation
-support is mentioned. Chemical Engineering and Chemistry lead the list of fields.
-The Illinois pay disclosure ($90,000–$145,000 annualized) is the only number. The
-posting states no work-authorization rule.
-
-[jobs.exxonmobil.com — req 1415301000](https://jobs.exxonmobil.com/job/Spring-PhD-Students-Seeking-Internship-Opportunities-TX-77389/1415301000/) · [closed predecessor 1314973500](https://jobs.exxonmobil.com/ExxonMobil/job/Houston-PhD-Students-Seeking-Internship-Opportunities-TX-77001/1314973500/)
-
-`LIVE` `VERIFY SEASON`
-
-| | |
-|---|---|
-| **Deadline** | Not stated |
-| **Citizen** | Not stated on the posting |
-| **GPA** | Not stated; "strong academic performance" |
-| **Level** | Currently pursuing a PhD in Chemical Engineering, Chemistry, Materials Science, ME, Petroleum, Data Science and related STEM fields |
-| **Terms** | Summer ~3 months or co-op 4–5 months. Illinois disclosure $90,000–$145,000 annualized; relocation support |
-
-### Micron Technology — Intern, Process Development Engineer, DRAM Thin Films (PhD)
-`Boise, ID · req JR107203`
-
-Posted 25 September. This is the PhD-level thin-films role, distinct from the
-Bachelor's/Master's thin-films req (JR107323) on last month's board. You design,
-run and analyze experiments to improve thin-film process performance for DRAM,
-use statistics and data science to find process trends, and present to technical
-and leadership audiences. The minimum degree is a **PhD in Materials Science or
-Chemical Engineering**, which makes this the clearest PhD ChemE semiconductor req
-of the cycle. AI/ML tooling, Python, MATLAB and JMP are preferred. Pay, dates and
-work authorization are not disclosed.
-
-[micron.wd1.myworkdayjobs.com — JR107203](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203) · [read this session via zapply mirror](https://zapply.jobs/jobs/a1d523f9-e517-4939-84bd-fd45308758e7/)
-
-`LIVE` `ROLLING`
-
-| | |
-|---|---|
-| **Deadline** | Not stated; posted 25 Sep 2026 |
-| **Citizen** | Not addressed in the mirrored posting |
-| **GPA** | Not specified |
-| **Level** | Currently pursuing a **PhD** in Materials Science or Chemical Engineering; semiconductor processing, thin films or characterization knowledge; DOE and statistics |
-| **Terms** | Summer, on-site Boise; dates and pay not disclosed |
-| **Verification** | Micron's Workday page not loaded; facts read from a full-text mirror |
-
-### Intel — Process Integration and Yield Engineering PhD Intern
-`Hillsboro, OR · req JR0287132`
-
-Module process and integration-flow development, defect analysis, yield
-experiments and metrology optimization in high-volume manufacturing. It is the
-most visible PhD process role in the industry right now, and it is a **trap for
-ChemE**. The listed majors are Physics, EE, Materials Science and Chemistry, with
-no chemical engineering. It wants microscopy proficiency, circuit-design
-background and scripting, and it states the position is "not eligible for
-employment-based visa/immigration sponsorship." A ChemE PhD student working on
-deposition or etch could still apply, but should lead with the overlap. A Wiley
-job-board listing gives a **22 October 2026** close. That page returned 403, and
-the aggregator copy did not show the date.
-
-[intel.wd1.myworkdayjobs.com — JR0287132](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) · [read this session via dreamworkhq mirror](https://www.dreamworkhq.com/job/d44aaab8-c05e-4f09-b298-836ca9c76ef3)
-
-`LIVE` `HARD DEADLINE`
-
-| | |
-|---|---|
-| **Deadline** | **22 Oct 2026** per a Wiley job-board snippet; **not confirmed** (page 403; mirror silent) |
-| **Citizen** | "This position is not eligible for employment-based visa/immigration sponsorship" |
-| **GPA** | 3.0 minimum |
-| **Level** | PhD student, 2nd or 3rd year preferred; Physics, EE, Materials Science or Chemistry — **ChemE not named** |
-| **Terms** | Late spring/summer 2027 start; year-long options mentioned. ~$120,900 annualized base per mirror |
-| **Verification** | Intel's Workday page not loaded; facts read from a full-text mirror |
-
-### Linde — R&D Intern, Summer 2027 (MS/PhD)
-`Burr Ridge, IL (also indexed at Tonawanda, NY)`
-
-Industrial-gas R&D: you join a team that plans, designs and runs experiments,
-evaluate results, and make recommendations on projects from exploratory to
-commercialization stage. It is graduate-only (Master's or PhD), and the **3.5 GPA
-minimum** is the highest bar on this board. Chemical Engineering heads a long list
-of eligible majors. The aggregator's annualized figure ($77,000–$81,000) matches
-the $37–$39/hr seen in other indexes. No requisition number was visible, and
-sponsorship is not mentioned.
-
-[read this session via tsenta.com mirror](https://tsenta.com/jobs/linde-r-d-intern-summer-2027-ec551bb7-138d-4b7e-9365-363e4c3b9603) · [lindecareers.com](https://us.lindecareers.com/early-careers/lea)
-
-`LIVE` `ROLLING`
-
-| | |
-|---|---|
-| **Deadline** | Not stated; posted ~2 months ago |
-| **Citizen** | Not stated |
-| **GPA** | 3.5 **minimum** |
-| **Level** | Pursuing a Master's or PhD in Chemical, Mechanical, Metallurgical, Environmental, Biomedical, Electrical, Civil or Industrial Engineering, Chemistry, or Materials Science/Ceramics |
-| **Terms** | Summer 2027. $77,000–$81,000 annualized (~$37–$39/hr) |
-| **Verification** | No Linde-hosted page for this req was retrieved; facts read from an aggregator copy |
+| **Deadline** | None retrieved. Genentech `~Nov 2026 – Mar 2027 (third-party guide est.)` |
+| **Citizen** | Not retrieved |
+| **Level** | Sanofi Framingham: ChemE among eligible majors (snippet) |
+| **Terms** | Sanofi: 6-month co-op from Jun 2027 (snippet). Others not retrieved |
 
 ---
 
 ## Undergraduate research (REU)
 
-Nothing to submit yet except Texas A&M, which opened today. Almost every REU site
-sets its deadline for January–March, and almost all require US citizenship or
-permanent residency, because NSF REU funding requires it. Use October to pick 6–8
-sites and line up two recommenders, since most sites want letters by the deadline.
-Coverage of ChemE-specific sites was thin this session. Search the NSF REU site
-list by "chemical engineering" and "materials."
+Texas A&M is the only REU on this board you can submit now. Penn opens 17
+November, and almost every NSF site sets its deadline between January and March.
+Nearly all require US citizenship or permanent residency because NSF REU funding
+does. **Penn has tightened its standing rule this cycle to six completed
+semesters**, which mostly shuts out sophomores. Use November to pick 6–8 sites
+and line up two recommenders. ChemE-department REU coverage was thin again, and
+most 2027 site pages aren't up yet.
 
-### Texas A&M Engineering — Undergraduate Summer Research REU Program, 2027
+### Texas A&M Engineering — Undergraduate Summer Research Grants (REU), 2027
 `College Station, TX`
 
-A 10-week summer research placement in Texas A&M engineering labs, working
-alongside faculty, postdocs and graduate students, and open to students from
-other universities. **Applications opened today.** The deadline is unusually firm
-in its wording: "There will be NO exceptions to this date or time. Incomplete
-applications will not be reviewed." The page does not list research areas,
-stipend, housing or citizenship rules. Email the program before applying to make
-sure a ChemE project exists for the summer.
+A 10-week summer research placement in Texas A&M engineering labs alongside
+faculty, postdocs and graduate students. It is open to students from other
+universities. **Applications are open now.** The deadline wording is unusually
+firm: there will be "NO exceptions" to the date or time, and recommendation
+letters are due by the same moment. The page lists no research areas, stipend,
+housing or citizenship rules, so email the program before applying to make sure
+a ChemE project exists.
 
 [engineering.tamu.edu — Undergraduate Summer Research](https://engineering.tamu.edu/admissions-and-aid/undergraduate-summer-research-grants/index.html)
 
@@ -1122,7 +1048,7 @@ sure a ChemE project exists for the summer.
 
 | | |
 |---|---|
-| **Deadline** | Opened 1 Oct 2026. **Closes 3 Jan 2027, 5:00 p.m. CST**. Decisions mid-March to early April |
+| **Deadline** | **3 Jan 2027, 5:00 p.m. CST**, letters included. Decisions mid-March to early April |
 | **Citizen** | Not stated on the page |
 | **GPA** | Not stated |
 | **Level** | Undergraduate engineering students, including non-Texas A&M |
@@ -1131,13 +1057,13 @@ sure a ChemE project exists for the summer.
 ### University of Pennsylvania LRSM — NSF REU in Materials Research, 2027
 `Philadelphia, PA`
 
-Up to twenty 10-week research fellowships in Penn's materials research center,
-covering chemistry, physics, biochemistry and "materials science or engineering."
-That makes it a natural home for a ChemE student interested in polymers, soft
-matter or energy materials. It is a short trip from Pittsburgh, housing is covered
-in university dorms, and the stipend is $7,000. The standing rule favors juniors
-by program start, though "exceptionally qualified" sophomores and first-years are
-considered, and graduating seniors may apply.
+Ten-week materials research fellowships at Penn's MRSEC, a natural home for a
+ChemE student interested in polymers, soft matter or energy materials, and a
+short trip from Pittsburgh. **Two changes since last month:** the stipend is now
+**$7,250**, and the window is fixed as **17 November – 1 February**. **The trap is
+the new standing rule**: you need **6 semesters (or 9 quarters) completed by the
+program start**, which means juniors now. Sophomores get only "special
+consideration." Housing is free, and offers roll until 1 April.
 
 [lrsm.upenn.edu — REU](https://www.lrsm.upenn.edu/outreach/reu/)
 
@@ -1145,22 +1071,21 @@ considered, and graduating seniors may apply.
 
 | | |
 |---|---|
-| **Deadline** | Opens Nov 2026. **Closes 1 Feb 2027**. Results by 1 Apr |
-| **Citizen** | "U.S. citizens or permanent residents" |
+| **Deadline** | Opens **17 Nov 2026**. Closes **1 Feb 2027, 11:59 p.m. EST**. Rolling offers through 1 Apr 2027 |
+| **Citizen** | Citizen or permanent resident of the US |
 | **GPA** | Not stated |
-| **Level** | Completed junior year by start; exceptional sophomores/first-years considered; graduating seniors eligible |
-| **Terms** | 1 Jun – 6 Aug 2027, 10 weeks. $7,000 stipend; dorm housing covered; travel assistance subject to funding |
+| **Level** | Enrolled in a STEM degree at a US school; **≥6 semesters/9 quarters completed by start** (exceptions considered); seniors graduating after the program eligible |
+| **Terms** | 1 Jun – 6 Aug 2027, 10 weeks. $7,250 stipend in weekly installments; free housing |
 
 ### Louisiana State University — Cain Department of Chemical Engineering REU
 `Baton Rouge, LA`
 
 A **chemical engineering department** REU, which is rare. It is built around
 entrepreneurship and translating research into practice, with faculty mentors who
-have startup experience, links to LSU Innovation Park, and weekly seminars on
-patents, IP and ethics. Any undergraduate year can apply, and the package is
-complete: $7,000, free apartment-style housing and up to $450 travel. **The page
-still shows Summer 2026.** Its deadline was 31 March 2026. Do not read that page
-as current. Expect a 2027 posting in the new year.
+have startup experience. Any undergraduate year can apply, and the package is
+complete. **The page still describes Summer 2026** (deadline 31 March 2026). Do
+not read it as current. Expect a 2027 posting early next year, and email
+chereu@lsu.edu to get on the list.
 
 [lsu.edu — ChemE REU Program](https://www.lsu.edu/eng/che/research/reu-program.php)
 
@@ -1169,189 +1094,225 @@ as current. Expect a 2027 posting in the new year.
 | | |
 |---|---|
 | **Deadline** | 2027 not posted. `~late Mar 2027 (prior-cycle est., basis: 31 Mar 2026 deadline)` |
-| **Citizen** | "U.S. citizens or permanent residents" |
+| **Citizen** | US citizens or permanent residents |
 | **GPA** | Not stated |
-| **Level** | Undergraduate, any academic year |
-| **Terms** | 2026 reference: 10 weeks (26 May – 31 Jul 2026), $7,000 stipend, free housing, up to $450 travel. 2027 figures not published |
+| **Level** | Undergraduate, freshman through senior |
+| **Terms** | 2026 reference: 26 May – 31 Jul, $7,000 stipend, up to $450 travel, free apartment-style housing with utilities. 2027 figures not published |
 
 ---
 
 ## Environment, water and climate tech
 
-This was the thinnest sector this session, and it should be read as leads only.
-Water consultancies mostly recruit civil and environmental majors, and the one
-primary page loaded (Black & Veatch) was already filled. The better ChemE route
-into energy transition is the power and process consultancies (Burns & McDonnell,
-Sargent & Lundy), which post ChemE-titled interns for hydrogen, carbon capture and
-storage work. None of these were verified on an employer page.
+This was again the thinnest sector, but it has one genuinely good new card.
+**Kairos Power**, an advanced-nuclear developer, is running a primary-verified
+Summer 2027 Chemical and Materials Engineering internship in salt chemistry,
+fuels and process design, with an Oak Ridge option. Water consultancies still
+recruit civil and environmental majors first, which is the common disqualifier for
+a ChemE applicant. Climate-tech aggregators (Climatebase) surfaced no dated 2027
+electrolyzer, carbon-removal or battery-process internships.
 
-### Water and environmental consultancies — Summer 2027 leads
-`Jacobs (multiple US offices) · Carollo Engineers (Atlanta, GA) · Xylem · Veolia (Milwaukee, WI)`
+### Kairos Power — Chemical and Materials Engineering Internship, Summer 2027
+`Alameda, CA · Albuquerque, NM · Oak Ridge, TN · Greenhouse job 6122803004`
 
-Aggregator indexes show **Jacobs** Water Engineering Intern – Summer 2027 reqs in
-Milwaukee, Reston (hybrid), Cleveland, Chicago, Detroit, Kansas City and Alabama
-offices at roughly $40,000–$62,000 annualized. They mention water and wastewater
-treatment process familiarity and prefer prior internship experience.
-**Carollo's** Summer 2027 water and wastewater intern in Atlanta covers design,
-reports and pilot testing, but asks for civil or environmental majors. A
-third-party guide says **Xylem** posts in October–January at $21–$27/hr, and
-**Veolia** Milwaukee has historically hired wastewater-operations interns at
-$20/hr. Treatment-process design is real ChemE work, but these firms filter on
-civil/environmental titles. Mention mass transfer and reactor design in your
-résumé summary.
+Kairos is building fluoride-salt-cooled high-temperature reactors, and this
+internship places you in its **Salt Chemistry, Fuels and Materials** organizations:
+chemical test, materials test, characterization, **process design, process
+development, and process safety and operations engineering**. You design
+experiments, keep lab notebooks, maintain test equipment and present at the end.
+It is molten-salt process chemistry, a direct use of a ChemE degree. **Traps:**
+the facility is subject to **DOE 10 CFR Part 810** export control, and citizens
+of countries outside DOE's general-authorization list need a specific licence.
+You must also commit to the full 13 in-person weeks.
 
-[jobright.ai — Water Engineering Intern Summer 2027 search](https://jobright.ai/jobs/water-engineering-intern---summer-2027-jobs-in-united-states) · [extern.com — Xylem guide](https://www.extern.com/post/xylem-internship-guide)
+[job-boards.greenhouse.io — Kairos Power 6122803004](https://job-boards.greenhouse.io/kairospower/jobs/6122803004)
 
-`LEADS — DETAILS UNCONFIRMED`
+`LIVE` `ROLLING`
 
 | | |
 |---|---|
-| **Deadline** | None retrieved. Xylem `~Oct 2026 – Jan 2027 (third-party guide est.)` |
-| **Citizen** | Not retrieved |
-| **Level** | Mostly civil/environmental majors named; prior internship preferred at Jacobs |
-| **Terms** | Jacobs ~$40–62k annualized (aggregator); Xylem $21–27/hr (guide); Veolia $20/hr (historical) |
+| **Deadline** | Not stated; applications "reviewed on an ongoing basis as internship positions are approved" |
+| **Citizen** | Asks about US work authorization and future sponsorship. **10 CFR Part 810**: nationals of countries not on DOE's general-authorization list cannot work at the facility without a DOE export licence |
+| **GPA** | No minimum stated; application asks for GPA |
+| **Level** | Enrolled BS/MS/PhD in ChemE, Chemistry, Materials Science/Engineering or related; applied experience outside class highly preferred; MATLAB/AutoCAD/Python |
+| **Terms** | 13 weeks in person: 24 May – 20 Aug or 14 Jun – 10 Sep 2027. $31–$33/hr (Alameda). Housing not mentioned |
 
-### Burns & McDonnell · Sargent & Lundy — Chemical Engineering Intern (energy transition)
-`Kansas City, MO (B&M req 264521) · Chicago, IL (S&L)`
+### Jacobs — Water Engineering Intern, Summer 2027
+`Kansas City, MO · req JC296270296`
 
-The two clearest climate-adjacent ChemE-titled interns found. **Burns & McDonnell's**
-Chemical Engineering Intern in Kansas City (req 264521) is described in snippets
-as standard-engineering design support. A second snippet ties the role to gas
-turbines, utility-scale battery storage, hydrogen electrolysis and carbon capture,
-at $16.25–$21.25/hr, the lowest ChemE rate on this board. **Sargent & Lundy's**
-Chemical Engineer Intern – Summer 2027 in Chicago ($18–$30/hr) asks for solid
-mass-balance fundamentals, lists solar, storage and carbon-capture engineering,
-and prefers prior internship or co-op experience. Both firms prefer prior
-experience. The B&M job-board page returned an empty body, and no S&L-hosted
-posting was found.
+Support for water, wastewater, civil and environmental projects for municipal
+and private clients: hydraulic evaluations, engineering studies, modeling,
+technical reports, CAD/GIS and cost estimating. Treatment-process design is real
+ChemE territory, but **this req asks for civil or environmental majors**. A ChemE
+applicant should lead with mass-transfer and reactor-design coursework and any
+water-treatment project. The listing was updated 31 October, so it is active.
+Search indexes show sibling Summer 2027 water reqs in Milwaukee and Madison
+asking for treatment-process familiarity, which may be the better ChemE fit.
 
-[burnsmcd.jobs — Chemical Engineering Intern (Kansas City)](https://burnsmcd.jobs/locations/kansas-city-mo/job-titles/chemical-engineering-intern-kansas-city/job-function/intern/jobs/?vs=1)
+[kansasworks.com — Jacobs JC296270296](https://www.kansasworks.com/jobs/13650354)
 
-`LEADS — DETAILS UNCONFIRMED` `NOT VERIFIED`
+`LIVE` `ROLLING`
+
+| | |
+|---|---|
+| **Deadline** | Not stated; posted 27 Aug, updated 31 Oct 2026 |
+| **Citizen** | "Ideal" candidate is authorized to work in the US without sponsorship now or in the future |
+| **GPA** | 3.0 minimum ("ideal") |
+| **Level** | Pursuing a bachelor's in **civil or environmental** engineering; AutoCAD/ArcGIS exposure |
+| **Terms** | Summer 2027; dates and pay not listed |
+| **Verification** | Read on a state job-board copy (KansasWorks), not Jacobs' own portal |
+
+### Veolia Water Technologies · Burns & McDonnell — industrial water and energy-transition leads
+`Houston / Port Arthur / Beaumont TX (Veolia field engineering) · Kansas City MO (B&M)`
+
+**Veolia's** field-engineering interns work in industrial water treatment. The
+duties are real ChemE work: PFDs, wet-lab water testing, monitoring chemical-feed
+equipment, and field checks of flow, pH, conductivity and chemical residuals. The
+one Veolia page loaded (Beaumont) has **expired**. A Summer 2027 Houston/Port
+Arthur/Beaumont version (12 weeks, May 2027 start, rising juniors or seniors in
+ChemE) appears only in search snippets. It notes a 30-lb lifting requirement and
+exposure to wastewater and treatment chemicals. **Burns & McDonnell's** item is
+an "Express Interest in a Summer 2027 Chemical Engineering Internship" form, a
+talent-pool sign-up rather than a req, and its career-board copy returned
+**410**.
+
+[jobs.smartrecruiters.com — Veolia Field Engineering (expired)](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104763402)
+
+`LEADS — DETAILS UNCONFIRMED` `LIKELY CLOSED`
 
 | | |
 |---|---|
 | **Deadline** | None retrieved |
-| **Citizen** | Not retrieved |
-| **Level** | B&M: enrolled in a related post-secondary program; prior internship/consulting preferred. S&L: mass-balance fundamentals; prior internship preferred |
-| **Terms** | B&M $16.25–$21.25/hr; S&L $18–$30/hr — both from search snippets, **unverified** |
+| **Citizen** | Not stated on the loaded Veolia page |
+| **Level** | Veolia: enrolled BEng (Chemical, Environmental, Industrial, Mechanical) or BSc Chemistry; lift 30 lb |
+| **Terms** | Veolia 2027: 12 weeks from May 2027 (snippet, unverified) |
 
 ---
 
 ## How to use this board
 
-- **Today:** if you are a US citizen or permanent resident with an OPT/CPT-free
-  work status, submit Williams before midnight. If you aren't, send the NETL PIP
-  application. Its suggested spring date is today and it has no blanket
-  citizenship bar.
-- **This week:** apply to Phillips 66 (both reqs), Marathon, TotalEnergies,
-  Cargill and the GlobalFoundries req for *your* class year. These are live,
-  verified, and close when filled. Kinder Morgan's hub says BOLT closes in
-  October.
-- **By 17–28 October:** Eastman (17 Oct), Intel PhD (22 Oct, unconfirmed), Dow
-  (25 Oct, unconfirmed), ORNL RSI (28 Oct). Open the Dow and Eastman portals
-  yourself, because neither date was confirmed on the company's own page.
-- **Ask for recommendation letters in October**, not December. SULI Summer opens
-  14 October and closes 6 January, in winter break. Penn's REU closes 1 February,
-  Texas A&M's 3 January, NIST's at the end of January.
-- **Re-check before you apply.** Five postings that looked live in search were
-  dead on load this session (P&G, Hershey, Merck, Genentech, ExxonMobil
-  1314973500), and two federal deadlines moved (NASA Summer to 1 March, WISE to
-  15 February).
-- **Read the graduation window first.** Amgen undergrad (full-time by July
-  2028), Lubrizol (Dec 2028 – May 2030), Flint Hills (body says Summer 2028) and
-  GlobalFoundries (separate sophomore and junior reqs) each screen on class year
-  more strictly than on GPA.
+- **Today (1 November):** EM STARS (juniors, US citizens), INROADS fall priority,
+  and the Regeneron purification co-op if its portal still accepts. Everything
+  else can wait until tomorrow.
+- **This week:** PhD students with a lab host, submit SCGSR by **4 November, 5
+  p.m. ET**, and apply to BMS's PhD drug-product internships by **7 November**.
+  Undergraduates: apply to Phillips 66, Marathon, Chevron, Cargill, TSMC and GF
+  Malta now. Each is live with no published close, and this month showed that
+  filled reqs vanish within weeks (P&G, Eastman and Flint Hills all did).
+- **Ask for recommendation letters this week, not in December.** SULI (6 Jan),
+  Texas A&M (3 Jan), SURF (~late Jan, letters due 3 days after close), Penn (1
+  Feb) and DAAD RISE (letters by 15 Dec) all count letters as part of the
+  deadline. Ask each recommender once, for the whole list.
+- **Mid-November:** Georgia-Pacific R&D expires 14 Nov. DOE's virtual Summer
+  Internship Fair is 12 Nov (1–5 p.m. ET). Penn's REU opens 17 Nov. DAAD RISE
+  closes 30 Nov, and Lilly's doctoral listing expires 1 Dec.
+- **Read the eligibility gates before the job description.** Amgen undergrad
+  (full-time by July 2028), Lubrizol (Dec 2028 – May 2030, two terms minimum),
+  Penn REU (6 semesters done), Kimberly-Clark (local candidates only, no
+  relocation), Kairos (DOE Part 810) and Micron Albany (graduating Dec 2027 or
+  later) each screen harder on these than on GPA.
+- **If you are on an F-1 visa**, almost every refining, chemicals and federal card
+  here excludes you. Your realistic routes are NETL (no program-level bar; apply
+  now because of the 7-week DOE approval), DAAD RISE, INROADS (partner-dependent),
+  and roles that are silent on authorization (TSMC, ExxonMobil, Air Products).
+  For the silent ones, ask before applying.
 
 ## Sources
 
 **Pages fetched and read this session (primary):**
 [SULI Key Dates](https://science.osti.gov/wdts/suli/Key-Dates) ·
-[ORNL-RSI-Spring-2027](https://www.zintellect.com/Opportunity/Details/ORNL-RSI-Spring-2027) ·
-[EM STARS](https://orise.orau.gov/em-stars/) ·
-[EM STARS application](https://orise.orau.gov/em-stars/application.html) ·
+[DOE Summer 2027 internships announcement](https://www.energy.gov/node/4860707) ·
 [SCGSR](https://science.osti.gov/wdts/scgsr) ·
+[EM STARS](https://orise.orau.gov/em-stars/) ·
+[ORNL-RSI-Summer-2027](https://www.zintellect.com/Opportunity/Details/ORNL-RSI-Summer-2027) ·
 [NETL-PIP](https://zintellect.com/Opportunity/Details/NETL-PIP) ·
-[NASA Internship Programs](https://www.nasa.gov/learning-resources/internship-programs/) ·
 [NIST SURF](https://www.nist.gov/surf) ·
-[Sandia Internships & Co-ops](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/) ·
-[PNNL Internships](https://www.pnnl.gov/internships) ·
+[USAJobs SURF-2027-0001](https://www.usajobs.gov/job/889003500) ·
+[USAJobs SURF-2027-0002](https://www.usajobs.gov/job/889006800) ·
+[NASA Internship Programs](https://www.nasa.gov/learning-resources/internship-programs/) ·
 [INROADS FAQs](https://inroads.org/internships-program/faqs/) ·
 [WISE How to Apply](https://wise-intern.org/home/how-apply/) ·
+[Sandia Internships & Co-ops](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/) ·
+[Y-12 University Recruitment](https://www.y12.doe.gov/careers/university-recruitment) ·
+[DAAD RISE Germany](https://www.daad.de/rise/en/rise-germany/) ·
 [Phillips 66 1418467500](https://careers.phillips66.com/job/Sweeny-2027-University-Intern-Refining-Engineer-TX-77480/1418467500/) ·
 [Phillips 66 1418408900](https://careers.phillips66.com/job/Houston-2027-University-Intern-Midstream-Engineering-TX-77042/1418408900/) ·
-[Koch/FHR 189408](https://koch.avature.net/en_US/careers/JobDetail/Rosemount-Minnesota-United-States-189408-Summer-2027-Chemical-Engineering-Intern-MN/189408) ·
-[TotalEnergies 83718](https://jobs.totalenergies.com/en_US/careers/JobDetail/2027-Engineering-Summer-Internship/83718) ·
 [ExxonMobil 1415276000](https://jobs.exxonmobil.com/job/Spring-STEM-Students-Seeking-Internship-or-Co-op-Opportunities-TX-77389/1415276000/) ·
 [ExxonMobil 1415301000](https://jobs.exxonmobil.com/job/Spring-PhD-Students-Seeking-Internship-Opportunities-TX-77389/1415301000/) ·
-[ExxonMobil 1314973500 (closed)](https://jobs.exxonmobil.com/ExxonMobil/job/Houston-PhD-Students-Seeking-Internship-Opportunities-TX-77001/1314973500/) ·
 [Kinder Morgan College Internships](https://careers.kindermorgan.com/college-internships) ·
-[TSMC 1361003166](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) ·
 [Cargill 330428](https://careers.cargill.com/en/job/-/-/23251/98708508048) ·
 [Lubrizol 1425310600](https://jobs.lubrizol.com/job/Wickliffe-Chemical-Engineering-Co-op-%28SpringSummer-2027%29-OH-44092-2298/1425310600/) ·
-[BASF Explore Together](https://www.basf.com/gb/en/careers/students/explore-together) ·
 [Linde Early Careers](https://us.lindecareers.com/early-careers/lea) ·
-[P&G R000157841 (filled)](https://www.pgcareers.com/us/en/job/R000157841/Engineering-Internship-Summer-2027) ·
-[Hershey 1382261300 (inactive)](https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Chemical-Engineering-Co-Op-PA-17033/1382261300/) ·
-[Black & Veatch 1252151101 (filled)](https://careers.bv.com/job/Bloomington-Civil-Engineer-Intern-Water-MN/1252151101/) ·
+[TSMC 1361003166](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) ·
+[Applied Materials R2626242](https://jobs.appliedmaterials.com/job/austin/2027-manufacturing-engineer-summer-internship-bachelors-austin-tx/95/100333621984) ·
 [Amgen R-254516](https://careers.amgen.com/en/job/thousand-oaks/undergrad-intern-operations-process-development-summer-2027/87/99867785168) ·
 [Amgen R-254519](https://careers.amgen.com/en/job/thousand-oaks/grad-intern-operations-process-development-summer-2027/87/99867785184) ·
-[Merck R413344 (expired)](https://jobs.merck.com/us/en/job/R413344/2027-Future-Talent-Program-Chemical-Engineering-Research-Development-Intern) ·
-[Lilly Engineering & Manufacturing Sciences](https://careers.lilly.com/us/en/student-manufacturing-science-/-engineering) ·
+[Kairos Power 6122803004](https://job-boards.greenhouse.io/kairospower/jobs/6122803004) ·
 [Texas A&M Undergraduate Summer Research](https://engineering.tamu.edu/admissions-and-aid/undergraduate-summer-research-grants/index.html) ·
 [Penn LRSM REU](https://www.lrsm.upenn.edu/outreach/reu/) ·
-[LSU ChemE REU](https://www.lsu.edu/eng/che/research/reu-program.php)
+[LSU ChemE REU](https://www.lsu.edu/eng/che/research/reu-program.php) ·
+[P&G R000157846 (filled)](https://www.pgcareers.com/us/en/job/R000157846) ·
+[P&G R000157840 (filled)](https://www.pgcareers.com/us/en/job/R000157840) ·
+[Eastman 1420024900 (filled)](https://jobs.eastman.com/job/Longview-2027-Chemical-Engineering-Intern-TX-75602/1420024900/) ·
+[Gore 2164 (unavailable)](https://wlgore.jobs.hr.cloud.sap/job/Engineering-Internship-Summer-2027/2164-en_US/) ·
+[Veolia Field Engineering (expired)](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104763402)
 
-**Full-text aggregator copies of requisitions, read this session because the employer page did not render:**
-[Williams R112605 (Simplify)](https://simplify.jobs/p/dccb7c0f-ce4a-4f90-80f7-fa0edb15bcea/Engineering-Intern) ·
+**Full-text aggregator or job-board copies of requisitions, read this session because the employer page did not render or no primary page was found:**
 [Marathon 00024022 (dreamworkhq)](https://www.dreamworkhq.com/job/51cfba90-e3c8-4952-aa53-e22c0899e517) ·
+[Chevron (Simplify)](https://simplify.jobs/p/3593d63b-e81c-4398-a096-145a855265dd/Chemical-Engineer-Intern) ·
 [Chevron R000072335 (dreamworkhq)](https://www.dreamworkhq.com/job/838f6e4f-7feb-4e06-9049-7855b6eb8db2) ·
-[Eastman 57139 (bebee)](https://bebee.com/us/jobs/2027-chemical-engineering-intern-eastman-chemical-longview-tx--t7xk-806892812) ·
 [Air Products JR-2026-21955 (jobright)](https://jobright.ai/jobs/info/6a90931c8ffa38557e6cdaa5) ·
-[RTX/Collins 01871473 (zapply)](https://zapply.jobs/jobs/5763232b-2f64-45c6-9b3c-3cf6b82115e8/) ·
-[GlobalFoundries JR-2604658 (zapply)](https://zapply.jobs/jobs/d08bc2eb-b042-49c8-a437-1e86870cfab6/) ·
-[onsemi 2506637 (dreamworkhq)](https://www.dreamworkhq.com/job/1c1e65c6-e9e1-4b0b-a25a-8f0fb92e7f6c) ·
-[Micron JR107203 (zapply)](https://zapply.jobs/jobs/a1d523f9-e517-4939-84bd-fd45308758e7/) ·
-[Intel JR0287132 (dreamworkhq)](https://www.dreamworkhq.com/job/d44aaab8-c05e-4f09-b298-836ca9c76ef3) ·
-[Linde R&D Summer 2027 (tsenta)](https://tsenta.com/jobs/linde-r-d-intern-summer-2027-ec551bb7-138d-4b7e-9365-363e4c3b9603) ·
-[Moderna listing (interninsider)](https://interninsider.me/companies/moderna)
+[GlobalFoundries Malta (Simplify)](https://simplify.jobs/p/810bf64d-ff04-4789-aa70-6f7d7b37c06c/Advanced-Manufacturing-Engineer-Intern) ·
+[Samsung 2027 Summer Internship (factoryfix)](https://jobs.factoryfix.com/jobs/2027-summer-internship--taylor--tx--1759841951--V2) ·
+[Kimberly-Clark 2027 (solidprofessor)](https://jobs.solidprofessor.com/job/363580/2027-engineering-co-ops-internships/) ·
+[Georgia-Pacific Neenah R&D (tallo)](https://tallo.com/talent/job/wi/neenah/georgia-pacific-research-and-d-491609ab) ·
+[Regeneron purification co-op (xtalks)](https://xtalks.com/job/2027-co-op-downstream-purification-analytics-bioconjugate-process-development/) ·
+[BMS R1607390 (xtalks)](https://xtalks.com/job/2027-summer-intern-phd-student-drug-product-development-oral-formulation/) ·
+[Lilly TDA doctoral (Harvard career services)](https://careerservices.fas.harvard.edu/jobs/eli-lilly-lilly-research-laboratories-tda-2027-summer-doctoral-inter/) ·
+[Micron Albany (builtinlondon)](https://builtinlondon.uk/job/intern-semiconductor-research-technology-development/11185537) ·
+[Jacobs JC296270296 (KansasWorks)](https://www.kansasworks.com/jobs/13650354) ·
+[FHR Corpus Christi (pharmadiversityjobboard, inactive)](https://www.pharmadiversityjobboard.com/job/summer-2027-chemical-engineering-intern-15450746) ·
+[CVR Wynnewood (pharmadiversityjobboard, inactive)](https://www.pharmadiversityjobboard.com/job/chemical-engineering-intern-summer-2027-15474720) ·
+[bp Whiting (pharmadiversityjobboard, inactive)](https://www.pharmadiversityjobboard.com/job/summer-internship-chemical-process-engineering-whiting-15469977) ·
+[AbbVie ODP intern (Runway, closed)](https://app.joinrunway.io/explore/job/cmse11u3y0016e85iexiy49uf) ·
+[P&G R&D intern (Runway)](https://app.joinrunway.io/explore/job/cmt6tx41a0011cv0izhh5210y) ·
+[Marathon Accounting 00023214 (Simplify — used only to confirm Marathon's authorization language)](https://simplify.jobs/p/62d6cd0f-9192-49fd-ba04-ac542ed924b2)
 
-**Hubs, aggregators and guides used only for timing or leads (not relied on for card facts unless labelled):**
-[extern.com engineering 2027 guide](https://www.extern.com/post/engineering-internships-summer-2027-guide) ·
-[extern.com Xylem guide](https://www.extern.com/post/xylem-internship-guide) ·
-[jobright.ai water intern search](https://jobright.ai/jobs/water-engineering-intern---summer-2027-jobs-in-united-states) ·
-[burnsmcd.jobs](https://burnsmcd.jobs/job-function/intern/jobs/) ·
-[Cornell career board — TI technician intern](https://career.cornell.edu/jobs/texas-instruments-inc-2027-manufacturing-technician-intern-dallas-richardson/) ·
-WebSearch result snippets for Dow, Intel, Moderna, Kraft Heinz, Sargent & Lundy, Kinder Morgan and AIChE RAPID, each labelled as such on its card
+**Hubs, guides and search snippets used only for timing or leads (not relied on for card facts unless labelled):**
+[extern.com — Naval Nuclear Laboratory guide](https://www.extern.com/post/naval-nuclear-laboratory-internship-guide) ·
+[extern.com — biotech/pharma 2027 guide](https://www.extern.com/post/biotech-pharma-internships-summer-2027-guide) ·
+[extern.com — retail/CPG 2027 guide](https://www.extern.com/post/retail-cpg-internships-summer-2027-guide) ·
+[extern.com — GlobalFoundries guide](https://www.extern.com/post/globalfoundries-internship-guide) ·
+[Kimberly-Clark College Students](https://www.careers.kimberly-clark.com/en/our-careers/college-students) ·
+WebSearch snippets for NNL pay, Centrus, Covestro, General Mills, Kraft Heinz, Koch-Glitsch, Koch Fertilizer, Moderna, Sanofi, Genentech, Wolfspeed, Veolia Houston 2027, the NIST SURF closing date and Samsung's Taylor expansion, each labelled as such on its card
 
 ## Caveats
 
 - **Pages that blocked or failed retrieval:** Workday returned an empty body for
-  Marathon, Chevron, Air Products, Eli Lilly, GlobalFoundries, Samsung and
-  Williams. jobs.dow.com failed a TLS certificate check. careers.gene.com returned
-  410 Gone. The Wiley job board (Intel), AIChE RAPID and two workopia pages
-  returned 403. LLNL returned 406. The BioSpace copy of Moderna's req and the
-  dreamworkhq copy of Genentech's returned 404. Kraft Heinz and the Kinder Morgan
-  req pages rendered only titles or configuration code. The burnsmcd.jobs listing
-  rendered empty.
-- **Left out on purpose:** the **AIChE RAPID** process-intensification intern
-  program (3.2 GPA, US-located, must be nominated by a RAPID member organization,
-  per search snippets) because its page returned 403. **LLNL** Summer 2027
-  graduate intern reqs (NSED, Computational Engineering) because the page
-  returned 406. **PNNL's** individual internship reqs, because its hub lists
-  programs but no dates; search "intern" on its careers page. TEL's Summer 2027
-  process engineering intern, because the link resolved to an unrelated page.
-  BYU's REU, because it is physics and astronomy only.
-- **Thin sectors:** environment/water/climate (no primary page verified),
-  REU (only three sites characterized), and consumer products (P&G's
-  flagship engineering req already filled; Kraft Heinz, General Mills and
-  PepsiCo unreadable).
+  Marathon and GlobalFoundries. TotalEnergies 83718 and Koch/FHR 189408 returned
+  404, and J&J's MSAT co-op also returned 404. HTTP 410 came back from xtalks
+  (Merck MSAT, Sanofi Swiftwater), dreamworkhq (onsemi) and Villanova's career
+  board (Burns & McDonnell). HTTP 403 came back from AIChE's internship board, AIChE
+  RAPID, tealhq, choppingblock (Intel PhD), abilityjobs (Covestro) and
+  opportunitiesforyouth (SURF dates). KansasWorks returned 401 for the
+  Koch-Glitsch req, and the Kinder Morgan jobs page rendered no listings.
+- **Left out on purpose:** **AIChE RAPID** intern program (page 403 again).
+  **Collins Aerospace** winter/spring co-op (January start; not rechecked).
+  **Linde R&D MS/PhD** (Linde's own page now says no open internships). **Dow**
+  (25 Oct date passed). **Intel PhD** (22 Oct date passed, page 403). **BASF
+  Explore Together** (not re-read this session). **LANL, LLNL, PNNL, Argonne**
+  summer 2027 (only third-party dates found; LANL's undergraduate window is
+  reportedly to 13 Feb 2027). **Sargent & Lundy** (no page found).
+- **Thin sectors:** environment, water and climate tech (one primary-verified
+  card, Kairos). REU (three sites characterized; most 2027 REU pages are not up
+  yet). Pharma undergraduate (one primary-verified live req).
 - **Not covered:** individual NSF REU sites beyond the three listed, Canadian
-  co-op programs, non-BASF international programs, and startups beyond the two
-  consultancy leads.
-- **Deadline count:** of the eight dated deadlines before 30 November, four
-  (Williams, Eastman, Dow, Intel PhD) come from aggregator copies or search
-  snippets, not the employer's page.
-- **Deadlines and eligibility change, sometimes within a week.** NASA and WISE
-  both moved dates since last month's board. The linked requisition or program
-  page is the authority, not this board.
+  co-op programs, international programs other than DAAD RISE, and startup
+  boards beyond a Climatebase search that returned nothing dated.
+- **Deadline count:** of the eight dated deadlines through 31 December, Regeneron
+  (1 Nov), BMS (7 Nov) and Georgia-Pacific (14 Nov) come from aggregator copies,
+  and Lilly (1 Dec) is a career-office listing expiry. EM STARS, INROADS, SCGSR
+  and DAAD RISE were read on the program's own page.
+- **Deadlines and eligibility change, sometimes within a week.** Since last
+  month, Penn's REU changed its stipend and standing rule, WISE's sponsor list
+  changed, and five postings that searches still serve went dead. The linked
+  requisition or program page is the authority, not this board.
